@@ -1,0 +1,1811 @@
+2021-03-29 15:45:00,072 [BombeRLeWorld] INFO: Initializing game world
+2021-03-29 15:45:05,136 [BombeRLeWorld] INFO: STARTING ROUND #1
+2021-03-29 15:45:05,389 [BombeRLeWorld] INFO: STARTING STEP 1
+2021-03-29 15:45:05,396 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.00s.
+2021-03-29 15:45:05,396 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:05,490 [BombeRLeWorld] INFO: STARTING STEP 2
+2021-03-29 15:45:05,495 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.00s.
+2021-03-29 15:45:05,496 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:05,594 [BombeRLeWorld] INFO: STARTING STEP 3
+2021-03-29 15:45:05,599 [BombeRLeWorld] INFO: Agent <my_agent> chose action RIGHT in 0.00s.
+2021-03-29 15:45:05,599 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:05,599 [BombeRLeWorld] INFO: Agent <my_agent> picked up coin at (2, 13) and receives 1 point
+2021-03-29 15:45:05,697 [BombeRLeWorld] INFO: STARTING STEP 4
+2021-03-29 15:45:05,702 [BombeRLeWorld] INFO: Agent <my_agent> chose action RIGHT in 0.00s.
+2021-03-29 15:45:05,702 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:05,801 [BombeRLeWorld] INFO: STARTING STEP 5
+2021-03-29 15:45:05,810 [BombeRLeWorld] INFO: Agent <my_agent> chose action RIGHT in 0.01s.
+2021-03-29 15:45:05,810 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:05,905 [BombeRLeWorld] INFO: STARTING STEP 6
+2021-03-29 15:45:05,918 [BombeRLeWorld] INFO: Agent <my_agent> chose action RIGHT in 0.01s.
+2021-03-29 15:45:05,918 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:06,006 [BombeRLeWorld] INFO: STARTING STEP 7
+2021-03-29 15:45:06,012 [BombeRLeWorld] INFO: Agent <my_agent> chose action RIGHT in 0.01s.
+2021-03-29 15:45:06,012 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:06,111 [BombeRLeWorld] INFO: STARTING STEP 8
+2021-03-29 15:45:06,115 [BombeRLeWorld] INFO: Agent <my_agent> chose action RIGHT in 0.00s.
+2021-03-29 15:45:06,115 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:06,213 [BombeRLeWorld] INFO: STARTING STEP 9
+2021-03-29 15:45:06,217 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.00s.
+2021-03-29 15:45:06,217 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:06,317 [BombeRLeWorld] INFO: STARTING STEP 10
+2021-03-29 15:45:06,323 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.00s.
+2021-03-29 15:45:06,323 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:06,323 [BombeRLeWorld] INFO: Agent <my_agent> picked up coin at (7, 11) and receives 1 point
+2021-03-29 15:45:06,422 [BombeRLeWorld] INFO: STARTING STEP 11
+2021-03-29 15:45:06,429 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.01s.
+2021-03-29 15:45:06,429 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:06,523 [BombeRLeWorld] INFO: STARTING STEP 12
+2021-03-29 15:45:06,529 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.00s.
+2021-03-29 15:45:06,529 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:06,627 [BombeRLeWorld] INFO: STARTING STEP 13
+2021-03-29 15:45:06,632 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.00s.
+2021-03-29 15:45:06,632 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:06,733 [BombeRLeWorld] INFO: STARTING STEP 14
+2021-03-29 15:45:06,738 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.00s.
+2021-03-29 15:45:06,738 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:06,738 [BombeRLeWorld] INFO: Agent <my_agent> picked up coin at (7, 7) and receives 1 point
+2021-03-29 15:45:06,837 [BombeRLeWorld] INFO: STARTING STEP 15
+2021-03-29 15:45:06,844 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.01s.
+2021-03-29 15:45:06,844 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:06,940 [BombeRLeWorld] INFO: STARTING STEP 16
+2021-03-29 15:45:06,945 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.00s.
+2021-03-29 15:45:06,945 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:07,042 [BombeRLeWorld] INFO: STARTING STEP 17
+2021-03-29 15:45:07,046 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.00s.
+2021-03-29 15:45:07,046 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:07,046 [BombeRLeWorld] INFO: Agent <my_agent> picked up coin at (5, 8) and receives 1 point
+2021-03-29 15:45:07,144 [BombeRLeWorld] INFO: STARTING STEP 18
+2021-03-29 15:45:07,150 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.01s.
+2021-03-29 15:45:07,151 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:07,254 [BombeRLeWorld] INFO: STARTING STEP 19
+2021-03-29 15:45:07,263 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.01s.
+2021-03-29 15:45:07,263 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:07,358 [BombeRLeWorld] INFO: STARTING STEP 20
+2021-03-29 15:45:07,364 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.01s.
+2021-03-29 15:45:07,364 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:07,461 [BombeRLeWorld] INFO: STARTING STEP 21
+2021-03-29 15:45:07,466 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.00s.
+2021-03-29 15:45:07,466 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:07,566 [BombeRLeWorld] INFO: STARTING STEP 22
+2021-03-29 15:45:07,572 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.01s.
+2021-03-29 15:45:07,572 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:07,670 [BombeRLeWorld] INFO: STARTING STEP 23
+2021-03-29 15:45:07,677 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.01s.
+2021-03-29 15:45:07,677 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:07,774 [BombeRLeWorld] INFO: STARTING STEP 24
+2021-03-29 15:45:07,777 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.00s.
+2021-03-29 15:45:07,777 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:07,777 [BombeRLeWorld] INFO: Agent <my_agent> picked up coin at (1, 5) and receives 1 point
+2021-03-29 15:45:07,878 [BombeRLeWorld] INFO: STARTING STEP 25
+2021-03-29 15:45:07,883 [BombeRLeWorld] INFO: Agent <my_agent> chose action RIGHT in 0.00s.
+2021-03-29 15:45:07,883 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:07,979 [BombeRLeWorld] INFO: STARTING STEP 26
+2021-03-29 15:45:07,987 [BombeRLeWorld] INFO: Agent <my_agent> chose action RIGHT in 0.01s.
+2021-03-29 15:45:07,987 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:08,084 [BombeRLeWorld] INFO: STARTING STEP 27
+2021-03-29 15:45:08,093 [BombeRLeWorld] INFO: Agent <my_agent> chose action RIGHT in 0.01s.
+2021-03-29 15:45:08,093 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:08,187 [BombeRLeWorld] INFO: STARTING STEP 28
+2021-03-29 15:45:08,194 [BombeRLeWorld] INFO: Agent <my_agent> chose action RIGHT in 0.01s.
+2021-03-29 15:45:08,194 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:08,289 [BombeRLeWorld] INFO: STARTING STEP 29
+2021-03-29 15:45:08,296 [BombeRLeWorld] INFO: Agent <my_agent> chose action RIGHT in 0.01s.
+2021-03-29 15:45:08,296 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:08,393 [BombeRLeWorld] INFO: STARTING STEP 30
+2021-03-29 15:45:08,398 [BombeRLeWorld] INFO: Agent <my_agent> chose action RIGHT in 0.00s.
+2021-03-29 15:45:08,398 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:08,497 [BombeRLeWorld] INFO: STARTING STEP 31
+2021-03-29 15:45:08,510 [BombeRLeWorld] INFO: Agent <my_agent> chose action RIGHT in 0.01s.
+2021-03-29 15:45:08,511 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:08,600 [BombeRLeWorld] INFO: STARTING STEP 32
+2021-03-29 15:45:08,608 [BombeRLeWorld] INFO: Agent <my_agent> chose action RIGHT in 0.01s.
+2021-03-29 15:45:08,608 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:08,704 [BombeRLeWorld] INFO: STARTING STEP 33
+2021-03-29 15:45:08,711 [BombeRLeWorld] INFO: Agent <my_agent> chose action RIGHT in 0.01s.
+2021-03-29 15:45:08,711 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:08,806 [BombeRLeWorld] INFO: STARTING STEP 34
+2021-03-29 15:45:08,811 [BombeRLeWorld] INFO: Agent <my_agent> chose action RIGHT in 0.00s.
+2021-03-29 15:45:08,811 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:08,907 [BombeRLeWorld] INFO: STARTING STEP 35
+2021-03-29 15:45:08,911 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.00s.
+2021-03-29 15:45:08,911 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:08,912 [BombeRLeWorld] INFO: Agent <my_agent> picked up coin at (11, 6) and receives 1 point
+2021-03-29 15:45:09,011 [BombeRLeWorld] INFO: STARTING STEP 36
+2021-03-29 15:45:09,015 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.00s.
+2021-03-29 15:45:09,015 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:09,116 [BombeRLeWorld] INFO: STARTING STEP 37
+2021-03-29 15:45:09,123 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.01s.
+2021-03-29 15:45:09,124 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:09,220 [BombeRLeWorld] INFO: STARTING STEP 38
+2021-03-29 15:45:09,228 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.01s.
+2021-03-29 15:45:09,228 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:09,324 [BombeRLeWorld] INFO: STARTING STEP 39
+2021-03-29 15:45:09,329 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.00s.
+2021-03-29 15:45:09,329 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:09,429 [BombeRLeWorld] INFO: STARTING STEP 40
+2021-03-29 15:45:09,432 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.00s.
+2021-03-29 15:45:09,432 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:09,432 [BombeRLeWorld] INFO: Agent <my_agent> picked up coin at (11, 1) and receives 1 point
+2021-03-29 15:45:09,533 [BombeRLeWorld] INFO: STARTING STEP 41
+2021-03-29 15:45:09,539 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.00s.
+2021-03-29 15:45:09,539 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:09,539 [BombeRLeWorld] INFO: Agent <my_agent> picked up coin at (10, 1) and receives 1 point
+2021-03-29 15:45:09,634 [BombeRLeWorld] INFO: STARTING STEP 42
+2021-03-29 15:45:09,645 [BombeRLeWorld] INFO: Agent <my_agent> chose action RIGHT in 0.01s.
+2021-03-29 15:45:09,645 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:09,736 [BombeRLeWorld] INFO: STARTING STEP 43
+2021-03-29 15:45:09,746 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.01s.
+2021-03-29 15:45:09,746 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:09,840 [BombeRLeWorld] INFO: STARTING STEP 44
+2021-03-29 15:45:09,848 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.01s.
+2021-03-29 15:45:09,848 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:09,942 [BombeRLeWorld] INFO: STARTING STEP 45
+2021-03-29 15:45:09,949 [BombeRLeWorld] INFO: Agent <my_agent> chose action RIGHT in 0.01s.
+2021-03-29 15:45:09,949 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:10,045 [BombeRLeWorld] INFO: STARTING STEP 46
+2021-03-29 15:45:10,051 [BombeRLeWorld] INFO: Agent <my_agent> chose action RIGHT in 0.01s.
+2021-03-29 15:45:10,051 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:10,149 [BombeRLeWorld] INFO: STARTING STEP 47
+2021-03-29 15:45:10,156 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.01s.
+2021-03-29 15:45:10,157 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:10,253 [BombeRLeWorld] INFO: STARTING STEP 48
+2021-03-29 15:45:10,262 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.01s.
+2021-03-29 15:45:10,262 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:10,356 [BombeRLeWorld] INFO: STARTING STEP 49
+2021-03-29 15:45:10,362 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.01s.
+2021-03-29 15:45:10,362 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:10,457 [BombeRLeWorld] INFO: STARTING STEP 50
+2021-03-29 15:45:10,463 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.00s.
+2021-03-29 15:45:10,463 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:10,561 [BombeRLeWorld] INFO: STARTING STEP 51
+2021-03-29 15:45:10,566 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.00s.
+2021-03-29 15:45:10,566 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:10,666 [BombeRLeWorld] INFO: STARTING STEP 52
+2021-03-29 15:45:10,672 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.01s.
+2021-03-29 15:45:10,672 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:10,770 [BombeRLeWorld] INFO: STARTING STEP 53
+2021-03-29 15:45:10,776 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.01s.
+2021-03-29 15:45:10,777 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:10,872 [BombeRLeWorld] INFO: STARTING STEP 54
+2021-03-29 15:45:10,878 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.00s.
+2021-03-29 15:45:10,878 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:10,977 [BombeRLeWorld] INFO: STARTING STEP 55
+2021-03-29 15:45:10,980 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.00s.
+2021-03-29 15:45:10,980 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:10,980 [BombeRLeWorld] INFO: Agent <my_agent> picked up coin at (13, 12) and receives 1 point
+2021-03-29 15:45:10,981 [BombeRLeWorld] INFO: One agent left alive with nothing to do, wrap up round
+2021-03-29 15:45:10,981 [BombeRLeWorld] INFO: WRAPPING UP ROUND #1
+2021-03-29 15:45:11,640 [BombeRLeWorld] INFO: STARTING ROUND #2
+2021-03-29 15:45:11,704 [BombeRLeWorld] INFO: STARTING STEP 1
+2021-03-29 15:45:11,711 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.01s.
+2021-03-29 15:45:11,711 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:11,809 [BombeRLeWorld] INFO: STARTING STEP 2
+2021-03-29 15:45:11,813 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.00s.
+2021-03-29 15:45:11,813 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:11,909 [BombeRLeWorld] INFO: STARTING STEP 3
+2021-03-29 15:45:11,914 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.00s.
+2021-03-29 15:45:11,914 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:12,018 [BombeRLeWorld] INFO: STARTING STEP 4
+2021-03-29 15:45:12,021 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.00s.
+2021-03-29 15:45:12,021 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:12,122 [BombeRLeWorld] INFO: STARTING STEP 5
+2021-03-29 15:45:12,127 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.00s.
+2021-03-29 15:45:12,127 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:12,127 [BombeRLeWorld] INFO: Agent <my_agent> picked up coin at (14, 5) and receives 1 point
+2021-03-29 15:45:12,222 [BombeRLeWorld] INFO: STARTING STEP 6
+2021-03-29 15:45:12,228 [BombeRLeWorld] INFO: Agent <my_agent> chose action RIGHT in 0.00s.
+2021-03-29 15:45:12,228 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:12,325 [BombeRLeWorld] INFO: STARTING STEP 7
+2021-03-29 15:45:12,329 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.00s.
+2021-03-29 15:45:12,329 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:12,329 [BombeRLeWorld] INFO: Agent <my_agent> picked up coin at (15, 6) and receives 1 point
+2021-03-29 15:45:12,425 [BombeRLeWorld] INFO: STARTING STEP 8
+2021-03-29 15:45:12,430 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.00s.
+2021-03-29 15:45:12,430 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:12,530 [BombeRLeWorld] INFO: STARTING STEP 9
+2021-03-29 15:45:12,544 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.01s.
+2021-03-29 15:45:12,544 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:12,633 [BombeRLeWorld] INFO: STARTING STEP 10
+2021-03-29 15:45:12,639 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.00s.
+2021-03-29 15:45:12,639 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:12,738 [BombeRLeWorld] INFO: STARTING STEP 11
+2021-03-29 15:45:12,746 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.01s.
+2021-03-29 15:45:12,746 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:12,842 [BombeRLeWorld] INFO: STARTING STEP 12
+2021-03-29 15:45:12,847 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.00s.
+2021-03-29 15:45:12,847 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:12,946 [BombeRLeWorld] INFO: STARTING STEP 13
+2021-03-29 15:45:12,952 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.00s.
+2021-03-29 15:45:12,952 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:13,051 [BombeRLeWorld] INFO: STARTING STEP 14
+2021-03-29 15:45:13,057 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.00s.
+2021-03-29 15:45:13,057 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:13,057 [BombeRLeWorld] INFO: Agent <my_agent> picked up coin at (9, 7) and receives 1 point
+2021-03-29 15:45:13,154 [BombeRLeWorld] INFO: STARTING STEP 15
+2021-03-29 15:45:13,160 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.01s.
+2021-03-29 15:45:13,160 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:13,255 [BombeRLeWorld] INFO: STARTING STEP 16
+2021-03-29 15:45:13,261 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.01s.
+2021-03-29 15:45:13,261 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:13,365 [BombeRLeWorld] INFO: STARTING STEP 17
+2021-03-29 15:45:13,371 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.00s.
+2021-03-29 15:45:13,371 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:13,371 [BombeRLeWorld] INFO: Agent <my_agent> picked up coin at (8, 5) and receives 1 point
+2021-03-29 15:45:13,469 [BombeRLeWorld] INFO: STARTING STEP 18
+2021-03-29 15:45:13,478 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.01s.
+2021-03-29 15:45:13,478 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:13,573 [BombeRLeWorld] INFO: STARTING STEP 19
+2021-03-29 15:45:13,580 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.01s.
+2021-03-29 15:45:13,580 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:13,675 [BombeRLeWorld] INFO: STARTING STEP 20
+2021-03-29 15:45:13,679 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.00s.
+2021-03-29 15:45:13,679 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:13,777 [BombeRLeWorld] INFO: STARTING STEP 21
+2021-03-29 15:45:13,780 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.00s.
+2021-03-29 15:45:13,780 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:13,880 [BombeRLeWorld] INFO: STARTING STEP 22
+2021-03-29 15:45:13,889 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.01s.
+2021-03-29 15:45:13,889 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:13,982 [BombeRLeWorld] INFO: STARTING STEP 23
+2021-03-29 15:45:13,986 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.00s.
+2021-03-29 15:45:13,987 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:13,987 [BombeRLeWorld] INFO: Agent <my_agent> picked up coin at (5, 8) and receives 1 point
+2021-03-29 15:45:14,087 [BombeRLeWorld] INFO: STARTING STEP 24
+2021-03-29 15:45:14,094 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.01s.
+2021-03-29 15:45:14,094 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:14,191 [BombeRLeWorld] INFO: STARTING STEP 25
+2021-03-29 15:45:14,197 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.00s.
+2021-03-29 15:45:14,197 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:14,294 [BombeRLeWorld] INFO: STARTING STEP 26
+2021-03-29 15:45:14,297 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.00s.
+2021-03-29 15:45:14,297 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:14,398 [BombeRLeWorld] INFO: STARTING STEP 27
+2021-03-29 15:45:14,402 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.00s.
+2021-03-29 15:45:14,402 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:14,402 [BombeRLeWorld] INFO: Agent <my_agent> picked up coin at (5, 12) and receives 1 point
+2021-03-29 15:45:14,503 [BombeRLeWorld] INFO: STARTING STEP 28
+2021-03-29 15:45:14,517 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.01s.
+2021-03-29 15:45:14,517 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:14,604 [BombeRLeWorld] INFO: STARTING STEP 29
+2021-03-29 15:45:14,609 [BombeRLeWorld] INFO: Agent <my_agent> chose action RIGHT in 0.00s.
+2021-03-29 15:45:14,609 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:14,708 [BombeRLeWorld] INFO: STARTING STEP 30
+2021-03-29 15:45:14,711 [BombeRLeWorld] INFO: Agent <my_agent> chose action RIGHT in 0.00s.
+2021-03-29 15:45:14,711 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:14,810 [BombeRLeWorld] INFO: STARTING STEP 31
+2021-03-29 15:45:14,814 [BombeRLeWorld] INFO: Agent <my_agent> chose action RIGHT in 0.00s.
+2021-03-29 15:45:14,814 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:14,914 [BombeRLeWorld] INFO: STARTING STEP 32
+2021-03-29 15:45:14,916 [BombeRLeWorld] INFO: Agent <my_agent> chose action RIGHT in 0.00s.
+2021-03-29 15:45:14,916 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:15,018 [BombeRLeWorld] INFO: STARTING STEP 33
+2021-03-29 15:45:15,022 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.00s.
+2021-03-29 15:45:15,022 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:15,022 [BombeRLeWorld] INFO: Agent <my_agent> picked up coin at (9, 14) and receives 1 point
+2021-03-29 15:45:15,120 [BombeRLeWorld] INFO: STARTING STEP 34
+2021-03-29 15:45:15,124 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.00s.
+2021-03-29 15:45:15,124 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:15,222 [BombeRLeWorld] INFO: STARTING STEP 35
+2021-03-29 15:45:15,228 [BombeRLeWorld] INFO: Agent <my_agent> chose action RIGHT in 0.00s.
+2021-03-29 15:45:15,228 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:15,327 [BombeRLeWorld] INFO: STARTING STEP 36
+2021-03-29 15:45:15,336 [BombeRLeWorld] INFO: Agent <my_agent> chose action RIGHT in 0.00s.
+2021-03-29 15:45:15,336 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:15,336 [BombeRLeWorld] INFO: Agent <my_agent> picked up coin at (11, 13) and receives 1 point
+2021-03-29 15:45:15,428 [BombeRLeWorld] INFO: STARTING STEP 37
+2021-03-29 15:45:15,438 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.01s.
+2021-03-29 15:45:15,438 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:15,533 [BombeRLeWorld] INFO: STARTING STEP 38
+2021-03-29 15:45:15,547 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.01s.
+2021-03-29 15:45:15,547 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:15,644 [BombeRLeWorld] INFO: STARTING STEP 39
+2021-03-29 15:45:15,652 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.01s.
+2021-03-29 15:45:15,652 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:15,746 [BombeRLeWorld] INFO: STARTING STEP 40
+2021-03-29 15:45:15,756 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.01s.
+2021-03-29 15:45:15,756 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:15,849 [BombeRLeWorld] INFO: STARTING STEP 41
+2021-03-29 15:45:15,861 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.01s.
+2021-03-29 15:45:15,861 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:15,954 [BombeRLeWorld] INFO: STARTING STEP 42
+2021-03-29 15:45:15,972 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.01s.
+2021-03-29 15:45:15,972 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:16,058 [BombeRLeWorld] INFO: STARTING STEP 43
+2021-03-29 15:45:16,067 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.01s.
+2021-03-29 15:45:16,067 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:16,162 [BombeRLeWorld] INFO: STARTING STEP 44
+2021-03-29 15:45:16,170 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.01s.
+2021-03-29 15:45:16,170 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:16,267 [BombeRLeWorld] INFO: STARTING STEP 45
+2021-03-29 15:45:16,280 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.01s.
+2021-03-29 15:45:16,280 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:16,371 [BombeRLeWorld] INFO: STARTING STEP 46
+2021-03-29 15:45:16,380 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.01s.
+2021-03-29 15:45:16,380 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:16,476 [BombeRLeWorld] INFO: STARTING STEP 47
+2021-03-29 15:45:16,481 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.00s.
+2021-03-29 15:45:16,481 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:16,580 [BombeRLeWorld] INFO: STARTING STEP 48
+2021-03-29 15:45:16,593 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.01s.
+2021-03-29 15:45:16,593 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:16,685 [BombeRLeWorld] INFO: STARTING STEP 49
+2021-03-29 15:45:16,693 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.01s.
+2021-03-29 15:45:16,693 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:16,789 [BombeRLeWorld] INFO: STARTING STEP 50
+2021-03-29 15:45:16,795 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.00s.
+2021-03-29 15:45:16,795 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:16,893 [BombeRLeWorld] INFO: STARTING STEP 51
+2021-03-29 15:45:16,897 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.00s.
+2021-03-29 15:45:16,897 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:16,995 [BombeRLeWorld] INFO: STARTING STEP 52
+2021-03-29 15:45:16,999 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.00s.
+2021-03-29 15:45:16,999 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:17,097 [BombeRLeWorld] INFO: STARTING STEP 53
+2021-03-29 15:45:17,101 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.00s.
+2021-03-29 15:45:17,101 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:17,101 [BombeRLeWorld] INFO: Agent <my_agent> picked up coin at (4, 3) and receives 1 point
+2021-03-29 15:45:17,101 [BombeRLeWorld] INFO: One agent left alive with nothing to do, wrap up round
+2021-03-29 15:45:17,101 [BombeRLeWorld] INFO: WRAPPING UP ROUND #2
+2021-03-29 15:45:19,091 [BombeRLeWorld] INFO: STARTING ROUND #3
+2021-03-29 15:45:19,170 [BombeRLeWorld] INFO: STARTING STEP 1
+2021-03-29 15:45:19,175 [BombeRLeWorld] INFO: Agent <my_agent> chose action RIGHT in 0.00s.
+2021-03-29 15:45:19,175 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:19,175 [BombeRLeWorld] INFO: Agent <my_agent> picked up coin at (15, 15) and receives 1 point
+2021-03-29 15:45:19,274 [BombeRLeWorld] INFO: STARTING STEP 2
+2021-03-29 15:45:19,279 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.00s.
+2021-03-29 15:45:19,279 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:19,378 [BombeRLeWorld] INFO: STARTING STEP 3
+2021-03-29 15:45:19,383 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.00s.
+2021-03-29 15:45:19,383 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:19,480 [BombeRLeWorld] INFO: STARTING STEP 4
+2021-03-29 15:45:19,484 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.00s.
+2021-03-29 15:45:19,484 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:19,584 [BombeRLeWorld] INFO: STARTING STEP 5
+2021-03-29 15:45:19,591 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.01s.
+2021-03-29 15:45:19,591 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:19,689 [BombeRLeWorld] INFO: STARTING STEP 6
+2021-03-29 15:45:19,694 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.00s.
+2021-03-29 15:45:19,694 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:19,791 [BombeRLeWorld] INFO: STARTING STEP 7
+2021-03-29 15:45:19,796 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.00s.
+2021-03-29 15:45:19,796 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:19,891 [BombeRLeWorld] INFO: STARTING STEP 8
+2021-03-29 15:45:19,896 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.00s.
+2021-03-29 15:45:19,896 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:19,896 [BombeRLeWorld] INFO: Agent <my_agent> picked up coin at (15, 8) and receives 1 point
+2021-03-29 15:45:19,995 [BombeRLeWorld] INFO: STARTING STEP 9
+2021-03-29 15:45:20,000 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.00s.
+2021-03-29 15:45:20,000 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:20,098 [BombeRLeWorld] INFO: STARTING STEP 10
+2021-03-29 15:45:20,105 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.01s.
+2021-03-29 15:45:20,105 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:20,208 [BombeRLeWorld] INFO: STARTING STEP 11
+2021-03-29 15:45:20,214 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.00s.
+2021-03-29 15:45:20,214 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:20,313 [BombeRLeWorld] INFO: STARTING STEP 12
+2021-03-29 15:45:20,318 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.00s.
+2021-03-29 15:45:20,318 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:20,417 [BombeRLeWorld] INFO: STARTING STEP 13
+2021-03-29 15:45:20,422 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.00s.
+2021-03-29 15:45:20,422 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:20,521 [BombeRLeWorld] INFO: STARTING STEP 14
+2021-03-29 15:45:20,527 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.00s.
+2021-03-29 15:45:20,527 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:20,622 [BombeRLeWorld] INFO: STARTING STEP 15
+2021-03-29 15:45:20,628 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.01s.
+2021-03-29 15:45:20,628 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:20,628 [BombeRLeWorld] INFO: Agent <my_agent> picked up coin at (9, 7) and receives 1 point
+2021-03-29 15:45:20,726 [BombeRLeWorld] INFO: STARTING STEP 16
+2021-03-29 15:45:20,730 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.00s.
+2021-03-29 15:45:20,730 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:20,830 [BombeRLeWorld] INFO: STARTING STEP 17
+2021-03-29 15:45:20,835 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.00s.
+2021-03-29 15:45:20,835 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:20,835 [BombeRLeWorld] INFO: Agent <my_agent> picked up coin at (9, 5) and receives 1 point
+2021-03-29 15:45:20,934 [BombeRLeWorld] INFO: STARTING STEP 18
+2021-03-29 15:45:20,949 [BombeRLeWorld] INFO: Agent <my_agent> chose action RIGHT in 0.01s.
+2021-03-29 15:45:20,949 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:21,037 [BombeRLeWorld] INFO: STARTING STEP 19
+2021-03-29 15:45:21,045 [BombeRLeWorld] INFO: Agent <my_agent> chose action RIGHT in 0.01s.
+2021-03-29 15:45:21,045 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:21,140 [BombeRLeWorld] INFO: STARTING STEP 20
+2021-03-29 15:45:21,145 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.00s.
+2021-03-29 15:45:21,145 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:21,245 [BombeRLeWorld] INFO: STARTING STEP 21
+2021-03-29 15:45:21,248 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.00s.
+2021-03-29 15:45:21,248 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:21,349 [BombeRLeWorld] INFO: STARTING STEP 22
+2021-03-29 15:45:21,355 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.00s.
+2021-03-29 15:45:21,355 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:21,453 [BombeRLeWorld] INFO: STARTING STEP 23
+2021-03-29 15:45:21,459 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.00s.
+2021-03-29 15:45:21,459 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:21,459 [BombeRLeWorld] INFO: Agent <my_agent> picked up coin at (11, 1) and receives 1 point
+2021-03-29 15:45:21,556 [BombeRLeWorld] INFO: STARTING STEP 24
+2021-03-29 15:45:21,565 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.01s.
+2021-03-29 15:45:21,565 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:21,660 [BombeRLeWorld] INFO: STARTING STEP 25
+2021-03-29 15:45:21,667 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.01s.
+2021-03-29 15:45:21,667 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:21,765 [BombeRLeWorld] INFO: STARTING STEP 26
+2021-03-29 15:45:21,773 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.01s.
+2021-03-29 15:45:21,774 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:21,869 [BombeRLeWorld] INFO: STARTING STEP 27
+2021-03-29 15:45:21,880 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.01s.
+2021-03-29 15:45:21,880 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:21,973 [BombeRLeWorld] INFO: STARTING STEP 28
+2021-03-29 15:45:21,982 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.01s.
+2021-03-29 15:45:21,982 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:22,075 [BombeRLeWorld] INFO: STARTING STEP 29
+2021-03-29 15:45:22,082 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.01s.
+2021-03-29 15:45:22,083 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:22,178 [BombeRLeWorld] INFO: STARTING STEP 30
+2021-03-29 15:45:22,184 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.01s.
+2021-03-29 15:45:22,184 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:22,284 [BombeRLeWorld] INFO: STARTING STEP 31
+2021-03-29 15:45:22,290 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.00s.
+2021-03-29 15:45:22,290 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:22,388 [BombeRLeWorld] INFO: STARTING STEP 32
+2021-03-29 15:45:22,395 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.01s.
+2021-03-29 15:45:22,395 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:22,492 [BombeRLeWorld] INFO: STARTING STEP 33
+2021-03-29 15:45:22,497 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.00s.
+2021-03-29 15:45:22,497 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:22,596 [BombeRLeWorld] INFO: STARTING STEP 34
+2021-03-29 15:45:22,600 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.00s.
+2021-03-29 15:45:22,601 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:22,701 [BombeRLeWorld] INFO: STARTING STEP 35
+2021-03-29 15:45:22,705 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.00s.
+2021-03-29 15:45:22,705 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:22,806 [BombeRLeWorld] INFO: STARTING STEP 36
+2021-03-29 15:45:22,811 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.00s.
+2021-03-29 15:45:22,811 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:22,811 [BombeRLeWorld] INFO: Agent <my_agent> picked up coin at (2, 5) and receives 1 point
+2021-03-29 15:45:22,909 [BombeRLeWorld] INFO: STARTING STEP 37
+2021-03-29 15:45:22,915 [BombeRLeWorld] INFO: Agent <my_agent> chose action RIGHT in 0.00s.
+2021-03-29 15:45:22,915 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:23,012 [BombeRLeWorld] INFO: STARTING STEP 38
+2021-03-29 15:45:23,018 [BombeRLeWorld] INFO: Agent <my_agent> chose action RIGHT in 0.00s.
+2021-03-29 15:45:23,018 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:23,117 [BombeRLeWorld] INFO: STARTING STEP 39
+2021-03-29 15:45:23,124 [BombeRLeWorld] INFO: Agent <my_agent> chose action RIGHT in 0.01s.
+2021-03-29 15:45:23,124 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:23,221 [BombeRLeWorld] INFO: STARTING STEP 40
+2021-03-29 15:45:23,228 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.01s.
+2021-03-29 15:45:23,228 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:23,322 [BombeRLeWorld] INFO: STARTING STEP 41
+2021-03-29 15:45:23,327 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.00s.
+2021-03-29 15:45:23,327 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:23,423 [BombeRLeWorld] INFO: STARTING STEP 42
+2021-03-29 15:45:23,428 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.00s.
+2021-03-29 15:45:23,428 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:23,524 [BombeRLeWorld] INFO: STARTING STEP 43
+2021-03-29 15:45:23,529 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.00s.
+2021-03-29 15:45:23,529 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:23,529 [BombeRLeWorld] INFO: Agent <my_agent> picked up coin at (5, 9) and receives 1 point
+2021-03-29 15:45:23,629 [BombeRLeWorld] INFO: STARTING STEP 44
+2021-03-29 15:45:23,633 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.00s.
+2021-03-29 15:45:23,633 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:23,734 [BombeRLeWorld] INFO: STARTING STEP 45
+2021-03-29 15:45:23,740 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.00s.
+2021-03-29 15:45:23,740 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:23,844 [BombeRLeWorld] INFO: STARTING STEP 46
+2021-03-29 15:45:23,848 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.00s.
+2021-03-29 15:45:23,848 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:23,948 [BombeRLeWorld] INFO: STARTING STEP 47
+2021-03-29 15:45:23,952 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.00s.
+2021-03-29 15:45:23,952 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:23,952 [BombeRLeWorld] INFO: Agent <my_agent> picked up coin at (5, 13) and receives 1 point
+2021-03-29 15:45:24,053 [BombeRLeWorld] INFO: STARTING STEP 48
+2021-03-29 15:45:24,060 [BombeRLeWorld] INFO: Agent <my_agent> chose action RIGHT in 0.01s.
+2021-03-29 15:45:24,060 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:24,155 [BombeRLeWorld] INFO: STARTING STEP 49
+2021-03-29 15:45:24,161 [BombeRLeWorld] INFO: Agent <my_agent> chose action RIGHT in 0.01s.
+2021-03-29 15:45:24,161 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:24,257 [BombeRLeWorld] INFO: STARTING STEP 50
+2021-03-29 15:45:24,261 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.00s.
+2021-03-29 15:45:24,262 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:24,364 [BombeRLeWorld] INFO: STARTING STEP 51
+2021-03-29 15:45:24,367 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.00s.
+2021-03-29 15:45:24,367 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:24,466 [BombeRLeWorld] INFO: STARTING STEP 52
+2021-03-29 15:45:24,471 [BombeRLeWorld] INFO: Agent <my_agent> chose action RIGHT in 0.00s.
+2021-03-29 15:45:24,471 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:24,471 [BombeRLeWorld] INFO: Agent <my_agent> picked up coin at (8, 11) and receives 1 point
+2021-03-29 15:45:24,471 [BombeRLeWorld] INFO: One agent left alive with nothing to do, wrap up round
+2021-03-29 15:45:24,471 [BombeRLeWorld] INFO: WRAPPING UP ROUND #3
+2021-03-29 15:45:24,886 [BombeRLeWorld] INFO: STARTING ROUND #4
+2021-03-29 15:45:24,987 [BombeRLeWorld] INFO: STARTING STEP 1
+2021-03-29 15:45:24,993 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.00s.
+2021-03-29 15:45:24,994 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:25,091 [BombeRLeWorld] INFO: STARTING STEP 2
+2021-03-29 15:45:25,095 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.00s.
+2021-03-29 15:45:25,095 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:25,194 [BombeRLeWorld] INFO: STARTING STEP 3
+2021-03-29 15:45:25,198 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.00s.
+2021-03-29 15:45:25,199 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:25,199 [BombeRLeWorld] INFO: Agent <my_agent> picked up coin at (13, 2) and receives 1 point
+2021-03-29 15:45:25,299 [BombeRLeWorld] INFO: STARTING STEP 4
+2021-03-29 15:45:25,306 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.01s.
+2021-03-29 15:45:25,306 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:25,404 [BombeRLeWorld] INFO: STARTING STEP 5
+2021-03-29 15:45:25,417 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.01s.
+2021-03-29 15:45:25,418 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:25,507 [BombeRLeWorld] INFO: STARTING STEP 6
+2021-03-29 15:45:25,514 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.01s.
+2021-03-29 15:45:25,514 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:25,610 [BombeRLeWorld] INFO: STARTING STEP 7
+2021-03-29 15:45:25,615 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.00s.
+2021-03-29 15:45:25,615 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:25,715 [BombeRLeWorld] INFO: STARTING STEP 8
+2021-03-29 15:45:25,719 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.00s.
+2021-03-29 15:45:25,719 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:25,819 [BombeRLeWorld] INFO: STARTING STEP 9
+2021-03-29 15:45:25,826 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.01s.
+2021-03-29 15:45:25,826 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:25,923 [BombeRLeWorld] INFO: STARTING STEP 10
+2021-03-29 15:45:25,928 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.00s.
+2021-03-29 15:45:25,928 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:25,928 [BombeRLeWorld] INFO: Agent <my_agent> picked up coin at (9, 5) and receives 1 point
+2021-03-29 15:45:26,027 [BombeRLeWorld] INFO: STARTING STEP 11
+2021-03-29 15:45:26,032 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.00s.
+2021-03-29 15:45:26,032 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:26,132 [BombeRLeWorld] INFO: STARTING STEP 12
+2021-03-29 15:45:26,137 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.00s.
+2021-03-29 15:45:26,138 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:26,236 [BombeRLeWorld] INFO: STARTING STEP 13
+2021-03-29 15:45:26,240 [BombeRLeWorld] INFO: Agent <my_agent> chose action RIGHT in 0.00s.
+2021-03-29 15:45:26,240 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:26,240 [BombeRLeWorld] INFO: Agent <my_agent> picked up coin at (10, 7) and receives 1 point
+2021-03-29 15:45:26,338 [BombeRLeWorld] INFO: STARTING STEP 14
+2021-03-29 15:45:26,346 [BombeRLeWorld] INFO: Agent <my_agent> chose action RIGHT in 0.01s.
+2021-03-29 15:45:26,346 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:26,439 [BombeRLeWorld] INFO: STARTING STEP 15
+2021-03-29 15:45:26,446 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.01s.
+2021-03-29 15:45:26,446 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:26,542 [BombeRLeWorld] INFO: STARTING STEP 16
+2021-03-29 15:45:26,546 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.00s.
+2021-03-29 15:45:26,546 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:26,647 [BombeRLeWorld] INFO: STARTING STEP 17
+2021-03-29 15:45:26,652 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.00s.
+2021-03-29 15:45:26,652 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:26,751 [BombeRLeWorld] INFO: STARTING STEP 18
+2021-03-29 15:45:26,755 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.00s.
+2021-03-29 15:45:26,755 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:26,855 [BombeRLeWorld] INFO: STARTING STEP 19
+2021-03-29 15:45:26,861 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.00s.
+2021-03-29 15:45:26,861 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:26,861 [BombeRLeWorld] INFO: Agent <my_agent> picked up coin at (10, 11) and receives 1 point
+2021-03-29 15:45:26,959 [BombeRLeWorld] INFO: STARTING STEP 20
+2021-03-29 15:45:26,964 [BombeRLeWorld] INFO: Agent <my_agent> chose action RIGHT in 0.00s.
+2021-03-29 15:45:26,964 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:27,061 [BombeRLeWorld] INFO: STARTING STEP 21
+2021-03-29 15:45:27,066 [BombeRLeWorld] INFO: Agent <my_agent> chose action RIGHT in 0.00s.
+2021-03-29 15:45:27,066 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:27,166 [BombeRLeWorld] INFO: STARTING STEP 22
+2021-03-29 15:45:27,170 [BombeRLeWorld] INFO: Agent <my_agent> chose action RIGHT in 0.00s.
+2021-03-29 15:45:27,170 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:27,275 [BombeRLeWorld] INFO: STARTING STEP 23
+2021-03-29 15:45:27,279 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.00s.
+2021-03-29 15:45:27,280 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:27,280 [BombeRLeWorld] INFO: Agent <my_agent> picked up coin at (13, 10) and receives 1 point
+2021-03-29 15:45:27,380 [BombeRLeWorld] INFO: STARTING STEP 24
+2021-03-29 15:45:27,386 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.00s.
+2021-03-29 15:45:27,386 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:27,484 [BombeRLeWorld] INFO: STARTING STEP 25
+2021-03-29 15:45:27,497 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.01s.
+2021-03-29 15:45:27,497 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:27,588 [BombeRLeWorld] INFO: STARTING STEP 26
+2021-03-29 15:45:27,594 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.00s.
+2021-03-29 15:45:27,594 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:27,691 [BombeRLeWorld] INFO: STARTING STEP 27
+2021-03-29 15:45:27,695 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.00s.
+2021-03-29 15:45:27,695 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:27,795 [BombeRLeWorld] INFO: STARTING STEP 28
+2021-03-29 15:45:27,799 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.00s.
+2021-03-29 15:45:27,799 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:27,799 [BombeRLeWorld] INFO: Agent <my_agent> picked up coin at (13, 15) and receives 1 point
+2021-03-29 15:45:27,900 [BombeRLeWorld] INFO: STARTING STEP 29
+2021-03-29 15:45:27,909 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.01s.
+2021-03-29 15:45:27,909 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:28,004 [BombeRLeWorld] INFO: STARTING STEP 30
+2021-03-29 15:45:28,022 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.02s.
+2021-03-29 15:45:28,022 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:28,109 [BombeRLeWorld] INFO: STARTING STEP 31
+2021-03-29 15:45:28,116 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.01s.
+2021-03-29 15:45:28,116 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:28,213 [BombeRLeWorld] INFO: STARTING STEP 32
+2021-03-29 15:45:28,221 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.01s.
+2021-03-29 15:45:28,222 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:28,318 [BombeRLeWorld] INFO: STARTING STEP 33
+2021-03-29 15:45:28,326 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.01s.
+2021-03-29 15:45:28,326 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:28,419 [BombeRLeWorld] INFO: STARTING STEP 34
+2021-03-29 15:45:28,427 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.01s.
+2021-03-29 15:45:28,427 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:28,523 [BombeRLeWorld] INFO: STARTING STEP 35
+2021-03-29 15:45:28,530 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.01s.
+2021-03-29 15:45:28,530 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:28,623 [BombeRLeWorld] INFO: STARTING STEP 36
+2021-03-29 15:45:28,629 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.01s.
+2021-03-29 15:45:28,630 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:28,727 [BombeRLeWorld] INFO: STARTING STEP 37
+2021-03-29 15:45:28,731 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.00s.
+2021-03-29 15:45:28,731 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:28,832 [BombeRLeWorld] INFO: STARTING STEP 38
+2021-03-29 15:45:28,835 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.00s.
+2021-03-29 15:45:28,835 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:28,936 [BombeRLeWorld] INFO: STARTING STEP 39
+2021-03-29 15:45:28,941 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.00s.
+2021-03-29 15:45:28,941 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:29,038 [BombeRLeWorld] INFO: STARTING STEP 40
+2021-03-29 15:45:29,043 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.00s.
+2021-03-29 15:45:29,043 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:29,043 [BombeRLeWorld] INFO: Agent <my_agent> picked up coin at (3, 13) and receives 1 point
+2021-03-29 15:45:29,138 [BombeRLeWorld] INFO: STARTING STEP 41
+2021-03-29 15:45:29,145 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.01s.
+2021-03-29 15:45:29,145 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:29,242 [BombeRLeWorld] INFO: STARTING STEP 42
+2021-03-29 15:45:29,247 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.00s.
+2021-03-29 15:45:29,247 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:29,348 [BombeRLeWorld] INFO: STARTING STEP 43
+2021-03-29 15:45:29,353 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.00s.
+2021-03-29 15:45:29,353 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:29,453 [BombeRLeWorld] INFO: STARTING STEP 44
+2021-03-29 15:45:29,458 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.00s.
+2021-03-29 15:45:29,458 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:29,557 [BombeRLeWorld] INFO: STARTING STEP 45
+2021-03-29 15:45:29,561 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.00s.
+2021-03-29 15:45:29,561 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:29,561 [BombeRLeWorld] INFO: Agent <my_agent> picked up coin at (1, 10) and receives 1 point
+2021-03-29 15:45:29,657 [BombeRLeWorld] INFO: STARTING STEP 46
+2021-03-29 15:45:29,664 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.01s.
+2021-03-29 15:45:29,664 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:29,760 [BombeRLeWorld] INFO: STARTING STEP 47
+2021-03-29 15:45:29,763 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.00s.
+2021-03-29 15:45:29,763 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:29,869 [BombeRLeWorld] INFO: STARTING STEP 48
+2021-03-29 15:45:29,875 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.01s.
+2021-03-29 15:45:29,875 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:29,973 [BombeRLeWorld] INFO: STARTING STEP 49
+2021-03-29 15:45:29,980 [BombeRLeWorld] INFO: Agent <my_agent> chose action RIGHT in 0.01s.
+2021-03-29 15:45:29,980 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:30,075 [BombeRLeWorld] INFO: STARTING STEP 50
+2021-03-29 15:45:30,080 [BombeRLeWorld] INFO: Agent <my_agent> chose action RIGHT in 0.00s.
+2021-03-29 15:45:30,080 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:30,178 [BombeRLeWorld] INFO: STARTING STEP 51
+2021-03-29 15:45:30,182 [BombeRLeWorld] INFO: Agent <my_agent> chose action RIGHT in 0.00s.
+2021-03-29 15:45:30,182 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:30,280 [BombeRLeWorld] INFO: STARTING STEP 52
+2021-03-29 15:45:30,284 [BombeRLeWorld] INFO: Agent <my_agent> chose action RIGHT in 0.00s.
+2021-03-29 15:45:30,284 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:30,387 [BombeRLeWorld] INFO: STARTING STEP 53
+2021-03-29 15:45:30,392 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.00s.
+2021-03-29 15:45:30,392 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:30,491 [BombeRLeWorld] INFO: STARTING STEP 54
+2021-03-29 15:45:30,495 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.00s.
+2021-03-29 15:45:30,495 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:30,495 [BombeRLeWorld] INFO: Agent <my_agent> picked up coin at (5, 5) and receives 1 point
+2021-03-29 15:45:30,495 [BombeRLeWorld] INFO: One agent left alive with nothing to do, wrap up round
+2021-03-29 15:45:30,495 [BombeRLeWorld] INFO: WRAPPING UP ROUND #4
+2021-03-29 15:45:31,050 [BombeRLeWorld] INFO: STARTING ROUND #5
+2021-03-29 15:45:31,116 [BombeRLeWorld] INFO: STARTING STEP 1
+2021-03-29 15:45:31,122 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.00s.
+2021-03-29 15:45:31,122 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:31,220 [BombeRLeWorld] INFO: STARTING STEP 2
+2021-03-29 15:45:31,228 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.01s.
+2021-03-29 15:45:31,228 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:31,325 [BombeRLeWorld] INFO: STARTING STEP 3
+2021-03-29 15:45:31,328 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.00s.
+2021-03-29 15:45:31,328 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:31,429 [BombeRLeWorld] INFO: STARTING STEP 4
+2021-03-29 15:45:31,434 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.00s.
+2021-03-29 15:45:31,434 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:31,534 [BombeRLeWorld] INFO: STARTING STEP 5
+2021-03-29 15:45:31,540 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.00s.
+2021-03-29 15:45:31,540 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:31,635 [BombeRLeWorld] INFO: STARTING STEP 6
+2021-03-29 15:45:31,640 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.00s.
+2021-03-29 15:45:31,640 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:31,640 [BombeRLeWorld] INFO: Agent <my_agent> picked up coin at (13, 11) and receives 1 point
+2021-03-29 15:45:31,739 [BombeRLeWorld] INFO: STARTING STEP 7
+2021-03-29 15:45:31,745 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.00s.
+2021-03-29 15:45:31,745 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:31,843 [BombeRLeWorld] INFO: STARTING STEP 8
+2021-03-29 15:45:31,847 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.00s.
+2021-03-29 15:45:31,847 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:31,948 [BombeRLeWorld] INFO: STARTING STEP 9
+2021-03-29 15:45:31,953 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.00s.
+2021-03-29 15:45:31,953 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:31,953 [BombeRLeWorld] INFO: Agent <my_agent> picked up coin at (12, 9) and receives 1 point
+2021-03-29 15:45:32,053 [BombeRLeWorld] INFO: STARTING STEP 10
+2021-03-29 15:45:32,062 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.01s.
+2021-03-29 15:45:32,062 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:32,156 [BombeRLeWorld] INFO: STARTING STEP 11
+2021-03-29 15:45:32,168 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.01s.
+2021-03-29 15:45:32,168 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:32,261 [BombeRLeWorld] INFO: STARTING STEP 12
+2021-03-29 15:45:32,266 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.00s.
+2021-03-29 15:45:32,266 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:32,365 [BombeRLeWorld] INFO: STARTING STEP 13
+2021-03-29 15:45:32,372 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.01s.
+2021-03-29 15:45:32,372 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:32,469 [BombeRLeWorld] INFO: STARTING STEP 14
+2021-03-29 15:45:32,474 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.00s.
+2021-03-29 15:45:32,474 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:32,571 [BombeRLeWorld] INFO: STARTING STEP 15
+2021-03-29 15:45:32,577 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.00s.
+2021-03-29 15:45:32,577 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:32,675 [BombeRLeWorld] INFO: STARTING STEP 16
+2021-03-29 15:45:32,679 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.00s.
+2021-03-29 15:45:32,679 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:32,679 [BombeRLeWorld] INFO: Agent <my_agent> picked up coin at (7, 7) and receives 1 point
+2021-03-29 15:45:32,778 [BombeRLeWorld] INFO: STARTING STEP 17
+2021-03-29 15:45:32,782 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.00s.
+2021-03-29 15:45:32,782 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:32,882 [BombeRLeWorld] INFO: STARTING STEP 18
+2021-03-29 15:45:32,886 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.00s.
+2021-03-29 15:45:32,886 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:32,986 [BombeRLeWorld] INFO: STARTING STEP 19
+2021-03-29 15:45:32,991 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.00s.
+2021-03-29 15:45:32,991 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:32,991 [BombeRLeWorld] INFO: Agent <my_agent> picked up coin at (6, 5) and receives 1 point
+2021-03-29 15:45:33,089 [BombeRLeWorld] INFO: STARTING STEP 20
+2021-03-29 15:45:33,095 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.00s.
+2021-03-29 15:45:33,095 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:33,194 [BombeRLeWorld] INFO: STARTING STEP 21
+2021-03-29 15:45:33,198 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.00s.
+2021-03-29 15:45:33,198 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:33,298 [BombeRLeWorld] INFO: STARTING STEP 22
+2021-03-29 15:45:33,303 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.00s.
+2021-03-29 15:45:33,303 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:33,403 [BombeRLeWorld] INFO: STARTING STEP 23
+2021-03-29 15:45:33,409 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.00s.
+2021-03-29 15:45:33,409 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:33,409 [BombeRLeWorld] INFO: Agent <my_agent> picked up coin at (2, 5) and receives 1 point
+2021-03-29 15:45:33,507 [BombeRLeWorld] INFO: STARTING STEP 24
+2021-03-29 15:45:33,513 [BombeRLeWorld] INFO: Agent <my_agent> chose action RIGHT in 0.00s.
+2021-03-29 15:45:33,513 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:33,612 [BombeRLeWorld] INFO: STARTING STEP 25
+2021-03-29 15:45:33,617 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.00s.
+2021-03-29 15:45:33,617 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:33,716 [BombeRLeWorld] INFO: STARTING STEP 26
+2021-03-29 15:45:33,721 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.00s.
+2021-03-29 15:45:33,721 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:33,821 [BombeRLeWorld] INFO: STARTING STEP 27
+2021-03-29 15:45:33,827 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.01s.
+2021-03-29 15:45:33,827 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:33,925 [BombeRLeWorld] INFO: STARTING STEP 28
+2021-03-29 15:45:33,929 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.00s.
+2021-03-29 15:45:33,929 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:34,030 [BombeRLeWorld] INFO: STARTING STEP 29
+2021-03-29 15:45:34,034 [BombeRLeWorld] INFO: Agent <my_agent> chose action RIGHT in 0.00s.
+2021-03-29 15:45:34,034 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:34,034 [BombeRLeWorld] INFO: Agent <my_agent> picked up coin at (4, 9) and receives 1 point
+2021-03-29 15:45:34,132 [BombeRLeWorld] INFO: STARTING STEP 30
+2021-03-29 15:45:34,138 [BombeRLeWorld] INFO: Agent <my_agent> chose action RIGHT in 0.00s.
+2021-03-29 15:45:34,139 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:34,237 [BombeRLeWorld] INFO: STARTING STEP 31
+2021-03-29 15:45:34,248 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.00s.
+2021-03-29 15:45:34,248 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:34,341 [BombeRLeWorld] INFO: STARTING STEP 32
+2021-03-29 15:45:34,346 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.00s.
+2021-03-29 15:45:34,346 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:34,346 [BombeRLeWorld] INFO: Agent <my_agent> picked up coin at (5, 11) and receives 1 point
+2021-03-29 15:45:34,446 [BombeRLeWorld] INFO: STARTING STEP 33
+2021-03-29 15:45:34,450 [BombeRLeWorld] INFO: Agent <my_agent> chose action RIGHT in 0.00s.
+2021-03-29 15:45:34,450 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:34,547 [BombeRLeWorld] INFO: STARTING STEP 34
+2021-03-29 15:45:34,550 [BombeRLeWorld] INFO: Agent <my_agent> chose action RIGHT in 0.00s.
+2021-03-29 15:45:34,550 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:34,649 [BombeRLeWorld] INFO: STARTING STEP 35
+2021-03-29 15:45:34,655 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.00s.
+2021-03-29 15:45:34,655 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:34,655 [BombeRLeWorld] INFO: Agent <my_agent> picked up coin at (7, 12) and receives 1 point
+2021-03-29 15:45:34,753 [BombeRLeWorld] INFO: STARTING STEP 36
+2021-03-29 15:45:34,760 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.01s.
+2021-03-29 15:45:34,760 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:34,857 [BombeRLeWorld] INFO: STARTING STEP 37
+2021-03-29 15:45:34,867 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.01s.
+2021-03-29 15:45:34,868 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:34,961 [BombeRLeWorld] INFO: STARTING STEP 38
+2021-03-29 15:45:34,969 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.01s.
+2021-03-29 15:45:34,969 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:35,065 [BombeRLeWorld] INFO: STARTING STEP 39
+2021-03-29 15:45:35,076 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.01s.
+2021-03-29 15:45:35,076 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:35,169 [BombeRLeWorld] INFO: STARTING STEP 40
+2021-03-29 15:45:35,181 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.01s.
+2021-03-29 15:45:35,181 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:35,272 [BombeRLeWorld] INFO: STARTING STEP 41
+2021-03-29 15:45:35,287 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.01s.
+2021-03-29 15:45:35,287 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:35,377 [BombeRLeWorld] INFO: STARTING STEP 42
+2021-03-29 15:45:35,384 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.01s.
+2021-03-29 15:45:35,384 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:35,481 [BombeRLeWorld] INFO: STARTING STEP 43
+2021-03-29 15:45:35,488 [BombeRLeWorld] INFO: Agent <my_agent> chose action RIGHT in 0.01s.
+2021-03-29 15:45:35,488 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:35,586 [BombeRLeWorld] INFO: STARTING STEP 44
+2021-03-29 15:45:35,592 [BombeRLeWorld] INFO: Agent <my_agent> chose action RIGHT in 0.01s.
+2021-03-29 15:45:35,592 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:35,690 [BombeRLeWorld] INFO: STARTING STEP 45
+2021-03-29 15:45:35,696 [BombeRLeWorld] INFO: Agent <my_agent> chose action RIGHT in 0.00s.
+2021-03-29 15:45:35,696 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:35,794 [BombeRLeWorld] INFO: STARTING STEP 46
+2021-03-29 15:45:35,799 [BombeRLeWorld] INFO: Agent <my_agent> chose action RIGHT in 0.00s.
+2021-03-29 15:45:35,799 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:35,899 [BombeRLeWorld] INFO: STARTING STEP 47
+2021-03-29 15:45:35,906 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.01s.
+2021-03-29 15:45:35,906 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:36,003 [BombeRLeWorld] INFO: STARTING STEP 48
+2021-03-29 15:45:36,009 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.00s.
+2021-03-29 15:45:36,009 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:36,108 [BombeRLeWorld] INFO: STARTING STEP 49
+2021-03-29 15:45:36,111 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.00s.
+2021-03-29 15:45:36,111 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:36,212 [BombeRLeWorld] INFO: STARTING STEP 50
+2021-03-29 15:45:36,216 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.00s.
+2021-03-29 15:45:36,216 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:36,216 [BombeRLeWorld] INFO: Agent <my_agent> picked up coin at (11, 1) and receives 1 point
+2021-03-29 15:45:36,216 [BombeRLeWorld] INFO: One agent left alive with nothing to do, wrap up round
+2021-03-29 15:45:36,216 [BombeRLeWorld] INFO: WRAPPING UP ROUND #5
+2021-03-29 15:45:36,846 [BombeRLeWorld] INFO: STARTING ROUND #6
+2021-03-29 15:45:36,948 [BombeRLeWorld] INFO: STARTING STEP 1
+2021-03-29 15:45:36,952 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.00s.
+2021-03-29 15:45:36,952 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:37,052 [BombeRLeWorld] INFO: STARTING STEP 2
+2021-03-29 15:45:37,058 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.00s.
+2021-03-29 15:45:37,058 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:37,153 [BombeRLeWorld] INFO: STARTING STEP 3
+2021-03-29 15:45:37,158 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.00s.
+2021-03-29 15:45:37,158 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:37,158 [BombeRLeWorld] INFO: Agent <my_agent> picked up coin at (14, 3) and receives 1 point
+2021-03-29 15:45:37,257 [BombeRLeWorld] INFO: STARTING STEP 4
+2021-03-29 15:45:37,264 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.01s.
+2021-03-29 15:45:37,264 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:37,359 [BombeRLeWorld] INFO: STARTING STEP 5
+2021-03-29 15:45:37,365 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.01s.
+2021-03-29 15:45:37,365 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:37,463 [BombeRLeWorld] INFO: STARTING STEP 6
+2021-03-29 15:45:37,471 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.01s.
+2021-03-29 15:45:37,471 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:37,564 [BombeRLeWorld] INFO: STARTING STEP 7
+2021-03-29 15:45:37,571 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.01s.
+2021-03-29 15:45:37,572 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:37,669 [BombeRLeWorld] INFO: STARTING STEP 8
+2021-03-29 15:45:37,675 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.00s.
+2021-03-29 15:45:37,675 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:37,773 [BombeRLeWorld] INFO: STARTING STEP 9
+2021-03-29 15:45:37,779 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.00s.
+2021-03-29 15:45:37,779 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:37,877 [BombeRLeWorld] INFO: STARTING STEP 10
+2021-03-29 15:45:37,881 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.00s.
+2021-03-29 15:45:37,881 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:37,977 [BombeRLeWorld] INFO: STARTING STEP 11
+2021-03-29 15:45:37,981 [BombeRLeWorld] INFO: Agent <my_agent> chose action RIGHT in 0.00s.
+2021-03-29 15:45:37,981 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:37,981 [BombeRLeWorld] INFO: Agent <my_agent> picked up coin at (14, 9) and receives 1 point
+2021-03-29 15:45:38,082 [BombeRLeWorld] INFO: STARTING STEP 12
+2021-03-29 15:45:38,088 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.01s.
+2021-03-29 15:45:38,088 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:38,187 [BombeRLeWorld] INFO: STARTING STEP 13
+2021-03-29 15:45:38,191 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.00s.
+2021-03-29 15:45:38,191 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:38,288 [BombeRLeWorld] INFO: STARTING STEP 14
+2021-03-29 15:45:38,294 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.01s.
+2021-03-29 15:45:38,294 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:38,390 [BombeRLeWorld] INFO: STARTING STEP 15
+2021-03-29 15:45:38,395 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.00s.
+2021-03-29 15:45:38,395 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:38,494 [BombeRLeWorld] INFO: STARTING STEP 16
+2021-03-29 15:45:38,498 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.00s.
+2021-03-29 15:45:38,498 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:38,498 [BombeRLeWorld] INFO: Agent <my_agent> picked up coin at (13, 13) and receives 1 point
+2021-03-29 15:45:38,598 [BombeRLeWorld] INFO: STARTING STEP 17
+2021-03-29 15:45:38,605 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.01s.
+2021-03-29 15:45:38,605 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:38,707 [BombeRLeWorld] INFO: STARTING STEP 18
+2021-03-29 15:45:38,715 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.00s.
+2021-03-29 15:45:38,715 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:38,809 [BombeRLeWorld] INFO: STARTING STEP 19
+2021-03-29 15:45:38,814 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.00s.
+2021-03-29 15:45:38,814 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:38,912 [BombeRLeWorld] INFO: STARTING STEP 20
+2021-03-29 15:45:38,916 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.00s.
+2021-03-29 15:45:38,916 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:39,018 [BombeRLeWorld] INFO: STARTING STEP 21
+2021-03-29 15:45:39,021 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.00s.
+2021-03-29 15:45:39,021 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:39,021 [BombeRLeWorld] INFO: Agent <my_agent> picked up coin at (8, 13) and receives 1 point
+2021-03-29 15:45:39,119 [BombeRLeWorld] INFO: STARTING STEP 22
+2021-03-29 15:45:39,125 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.00s.
+2021-03-29 15:45:39,125 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:39,224 [BombeRLeWorld] INFO: STARTING STEP 23
+2021-03-29 15:45:39,234 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.00s.
+2021-03-29 15:45:39,234 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:39,324 [BombeRLeWorld] INFO: STARTING STEP 24
+2021-03-29 15:45:39,328 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.00s.
+2021-03-29 15:45:39,328 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:39,428 [BombeRLeWorld] INFO: STARTING STEP 25
+2021-03-29 15:45:39,432 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.00s.
+2021-03-29 15:45:39,432 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:39,432 [BombeRLeWorld] INFO: Agent <my_agent> picked up coin at (5, 14) and receives 1 point
+2021-03-29 15:45:39,534 [BombeRLeWorld] INFO: STARTING STEP 26
+2021-03-29 15:45:39,541 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.01s.
+2021-03-29 15:45:39,541 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:39,637 [BombeRLeWorld] INFO: STARTING STEP 27
+2021-03-29 15:45:39,646 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.01s.
+2021-03-29 15:45:39,646 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:39,742 [BombeRLeWorld] INFO: STARTING STEP 28
+2021-03-29 15:45:39,746 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.00s.
+2021-03-29 15:45:39,746 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:39,843 [BombeRLeWorld] INFO: STARTING STEP 29
+2021-03-29 15:45:39,848 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.00s.
+2021-03-29 15:45:39,848 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:39,946 [BombeRLeWorld] INFO: STARTING STEP 30
+2021-03-29 15:45:39,951 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.00s.
+2021-03-29 15:45:39,951 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:40,052 [BombeRLeWorld] INFO: STARTING STEP 31
+2021-03-29 15:45:40,058 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.00s.
+2021-03-29 15:45:40,058 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:40,157 [BombeRLeWorld] INFO: STARTING STEP 32
+2021-03-29 15:45:40,161 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.00s.
+2021-03-29 15:45:40,161 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:40,257 [BombeRLeWorld] INFO: STARTING STEP 33
+2021-03-29 15:45:40,263 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.00s.
+2021-03-29 15:45:40,263 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:40,359 [BombeRLeWorld] INFO: STARTING STEP 34
+2021-03-29 15:45:40,362 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.00s.
+2021-03-29 15:45:40,362 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:40,362 [BombeRLeWorld] INFO: Agent <my_agent> picked up coin at (1, 9) and receives 1 point
+2021-03-29 15:45:40,464 [BombeRLeWorld] INFO: STARTING STEP 35
+2021-03-29 15:45:40,471 [BombeRLeWorld] INFO: Agent <my_agent> chose action RIGHT in 0.01s.
+2021-03-29 15:45:40,471 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:40,572 [BombeRLeWorld] INFO: STARTING STEP 36
+2021-03-29 15:45:40,580 [BombeRLeWorld] INFO: Agent <my_agent> chose action RIGHT in 0.01s.
+2021-03-29 15:45:40,580 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:40,672 [BombeRLeWorld] INFO: STARTING STEP 37
+2021-03-29 15:45:40,679 [BombeRLeWorld] INFO: Agent <my_agent> chose action RIGHT in 0.01s.
+2021-03-29 15:45:40,679 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:40,776 [BombeRLeWorld] INFO: STARTING STEP 38
+2021-03-29 15:45:40,781 [BombeRLeWorld] INFO: Agent <my_agent> chose action RIGHT in 0.00s.
+2021-03-29 15:45:40,781 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:40,880 [BombeRLeWorld] INFO: STARTING STEP 39
+2021-03-29 15:45:40,885 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.00s.
+2021-03-29 15:45:40,885 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:40,984 [BombeRLeWorld] INFO: STARTING STEP 40
+2021-03-29 15:45:40,990 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.01s.
+2021-03-29 15:45:40,990 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:41,092 [BombeRLeWorld] INFO: STARTING STEP 41
+2021-03-29 15:45:41,097 [BombeRLeWorld] INFO: Agent <my_agent> chose action RIGHT in 0.00s.
+2021-03-29 15:45:41,097 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:41,196 [BombeRLeWorld] INFO: STARTING STEP 42
+2021-03-29 15:45:41,201 [BombeRLeWorld] INFO: Agent <my_agent> chose action RIGHT in 0.00s.
+2021-03-29 15:45:41,202 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:41,302 [BombeRLeWorld] INFO: STARTING STEP 43
+2021-03-29 15:45:41,307 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.00s.
+2021-03-29 15:45:41,308 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:41,308 [BombeRLeWorld] INFO: Agent <my_agent> picked up coin at (7, 6) and receives 1 point
+2021-03-29 15:45:41,404 [BombeRLeWorld] INFO: STARTING STEP 44
+2021-03-29 15:45:41,410 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.00s.
+2021-03-29 15:45:41,410 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:41,507 [BombeRLeWorld] INFO: STARTING STEP 45
+2021-03-29 15:45:41,511 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.00s.
+2021-03-29 15:45:41,511 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:41,512 [BombeRLeWorld] INFO: Agent <my_agent> picked up coin at (7, 4) and receives 1 point
+2021-03-29 15:45:41,611 [BombeRLeWorld] INFO: STARTING STEP 46
+2021-03-29 15:45:41,615 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.00s.
+2021-03-29 15:45:41,615 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:41,712 [BombeRLeWorld] INFO: STARTING STEP 47
+2021-03-29 15:45:41,715 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.00s.
+2021-03-29 15:45:41,715 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:41,815 [BombeRLeWorld] INFO: STARTING STEP 48
+2021-03-29 15:45:41,817 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.00s.
+2021-03-29 15:45:41,817 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:41,919 [BombeRLeWorld] INFO: STARTING STEP 49
+2021-03-29 15:45:41,924 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.00s.
+2021-03-29 15:45:41,925 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:41,925 [BombeRLeWorld] INFO: Agent <my_agent> picked up coin at (4, 3) and receives 1 point
+2021-03-29 15:45:41,925 [BombeRLeWorld] INFO: One agent left alive with nothing to do, wrap up round
+2021-03-29 15:45:41,925 [BombeRLeWorld] INFO: WRAPPING UP ROUND #6
+2021-03-29 15:45:42,506 [BombeRLeWorld] INFO: STARTING ROUND #7
+2021-03-29 15:45:42,540 [BombeRLeWorld] INFO: STARTING STEP 1
+2021-03-29 15:45:42,544 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.00s.
+2021-03-29 15:45:42,544 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:42,644 [BombeRLeWorld] INFO: STARTING STEP 2
+2021-03-29 15:45:42,649 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.00s.
+2021-03-29 15:45:42,649 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:42,749 [BombeRLeWorld] INFO: STARTING STEP 3
+2021-03-29 15:45:42,755 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.01s.
+2021-03-29 15:45:42,755 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:42,853 [BombeRLeWorld] INFO: STARTING STEP 4
+2021-03-29 15:45:42,858 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.00s.
+2021-03-29 15:45:42,858 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:42,958 [BombeRLeWorld] INFO: STARTING STEP 5
+2021-03-29 15:45:42,962 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.00s.
+2021-03-29 15:45:42,962 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:42,962 [BombeRLeWorld] INFO: Agent <my_agent> picked up coin at (12, 3) and receives 1 point
+2021-03-29 15:45:43,062 [BombeRLeWorld] INFO: STARTING STEP 6
+2021-03-29 15:45:43,070 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.01s.
+2021-03-29 15:45:43,070 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:43,167 [BombeRLeWorld] INFO: STARTING STEP 7
+2021-03-29 15:45:43,180 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.01s.
+2021-03-29 15:45:43,180 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:43,271 [BombeRLeWorld] INFO: STARTING STEP 8
+2021-03-29 15:45:43,278 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.01s.
+2021-03-29 15:45:43,278 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:43,376 [BombeRLeWorld] INFO: STARTING STEP 9
+2021-03-29 15:45:43,379 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.00s.
+2021-03-29 15:45:43,379 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:43,480 [BombeRLeWorld] INFO: STARTING STEP 10
+2021-03-29 15:45:43,484 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.00s.
+2021-03-29 15:45:43,484 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:43,585 [BombeRLeWorld] INFO: STARTING STEP 11
+2021-03-29 15:45:43,591 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.01s.
+2021-03-29 15:45:43,591 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:43,592 [BombeRLeWorld] INFO: Agent <my_agent> picked up coin at (9, 6) and receives 1 point
+2021-03-29 15:45:43,687 [BombeRLeWorld] INFO: STARTING STEP 12
+2021-03-29 15:45:43,694 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.01s.
+2021-03-29 15:45:43,694 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:43,788 [BombeRLeWorld] INFO: STARTING STEP 13
+2021-03-29 15:45:43,793 [BombeRLeWorld] INFO: Agent <my_agent> chose action RIGHT in 0.00s.
+2021-03-29 15:45:43,793 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:43,890 [BombeRLeWorld] INFO: STARTING STEP 14
+2021-03-29 15:45:43,895 [BombeRLeWorld] INFO: Agent <my_agent> chose action RIGHT in 0.00s.
+2021-03-29 15:45:43,895 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:43,994 [BombeRLeWorld] INFO: STARTING STEP 15
+2021-03-29 15:45:44,002 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.00s.
+2021-03-29 15:45:44,002 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:44,002 [BombeRLeWorld] INFO: Agent <my_agent> picked up coin at (11, 8) and receives 1 point
+2021-03-29 15:45:44,096 [BombeRLeWorld] INFO: STARTING STEP 16
+2021-03-29 15:45:44,104 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.01s.
+2021-03-29 15:45:44,104 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:44,200 [BombeRLeWorld] INFO: STARTING STEP 17
+2021-03-29 15:45:44,210 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.01s.
+2021-03-29 15:45:44,210 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:44,304 [BombeRLeWorld] INFO: STARTING STEP 18
+2021-03-29 15:45:44,312 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.01s.
+2021-03-29 15:45:44,312 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:44,408 [BombeRLeWorld] INFO: STARTING STEP 19
+2021-03-29 15:45:44,414 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.01s.
+2021-03-29 15:45:44,414 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:44,509 [BombeRLeWorld] INFO: STARTING STEP 20
+2021-03-29 15:45:44,514 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.00s.
+2021-03-29 15:45:44,514 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:44,611 [BombeRLeWorld] INFO: STARTING STEP 21
+2021-03-29 15:45:44,615 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.00s.
+2021-03-29 15:45:44,616 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:44,715 [BombeRLeWorld] INFO: STARTING STEP 22
+2021-03-29 15:45:44,720 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.00s.
+2021-03-29 15:45:44,721 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:44,819 [BombeRLeWorld] INFO: STARTING STEP 23
+2021-03-29 15:45:44,823 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.00s.
+2021-03-29 15:45:44,823 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:44,823 [BombeRLeWorld] INFO: Agent <my_agent> picked up coin at (4, 7) and receives 1 point
+2021-03-29 15:45:44,923 [BombeRLeWorld] INFO: STARTING STEP 24
+2021-03-29 15:45:44,928 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.00s.
+2021-03-29 15:45:44,928 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:45,024 [BombeRLeWorld] INFO: STARTING STEP 25
+2021-03-29 15:45:45,028 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.00s.
+2021-03-29 15:45:45,029 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:45,129 [BombeRLeWorld] INFO: STARTING STEP 26
+2021-03-29 15:45:45,133 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.00s.
+2021-03-29 15:45:45,133 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:45,133 [BombeRLeWorld] INFO: Agent <my_agent> picked up coin at (3, 5) and receives 1 point
+2021-03-29 15:45:45,233 [BombeRLeWorld] INFO: STARTING STEP 27
+2021-03-29 15:45:45,237 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.00s.
+2021-03-29 15:45:45,237 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:45,341 [BombeRLeWorld] INFO: STARTING STEP 28
+2021-03-29 15:45:45,347 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.01s.
+2021-03-29 15:45:45,347 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:45,444 [BombeRLeWorld] INFO: STARTING STEP 29
+2021-03-29 15:45:45,447 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.00s.
+2021-03-29 15:45:45,448 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:45,547 [BombeRLeWorld] INFO: STARTING STEP 30
+2021-03-29 15:45:45,551 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.00s.
+2021-03-29 15:45:45,551 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:45,649 [BombeRLeWorld] INFO: STARTING STEP 31
+2021-03-29 15:45:45,655 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.01s.
+2021-03-29 15:45:45,655 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:45,754 [BombeRLeWorld] INFO: STARTING STEP 32
+2021-03-29 15:45:45,760 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.00s.
+2021-03-29 15:45:45,760 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:45,760 [BombeRLeWorld] INFO: Agent <my_agent> picked up coin at (3, 11) and receives 1 point
+2021-03-29 15:45:45,858 [BombeRLeWorld] INFO: STARTING STEP 33
+2021-03-29 15:45:45,865 [BombeRLeWorld] INFO: Agent <my_agent> chose action RIGHT in 0.01s.
+2021-03-29 15:45:45,865 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:45,963 [BombeRLeWorld] INFO: STARTING STEP 34
+2021-03-29 15:45:45,970 [BombeRLeWorld] INFO: Agent <my_agent> chose action RIGHT in 0.01s.
+2021-03-29 15:45:45,970 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:46,067 [BombeRLeWorld] INFO: STARTING STEP 35
+2021-03-29 15:45:46,082 [BombeRLeWorld] INFO: Agent <my_agent> chose action RIGHT in 0.01s.
+2021-03-29 15:45:46,082 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:46,171 [BombeRLeWorld] INFO: STARTING STEP 36
+2021-03-29 15:45:46,178 [BombeRLeWorld] INFO: Agent <my_agent> chose action RIGHT in 0.01s.
+2021-03-29 15:45:46,179 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:46,276 [BombeRLeWorld] INFO: STARTING STEP 37
+2021-03-29 15:45:46,281 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.00s.
+2021-03-29 15:45:46,281 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:46,379 [BombeRLeWorld] INFO: STARTING STEP 38
+2021-03-29 15:45:46,384 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.00s.
+2021-03-29 15:45:46,384 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:46,483 [BombeRLeWorld] INFO: STARTING STEP 39
+2021-03-29 15:45:46,489 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.00s.
+2021-03-29 15:45:46,489 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:46,587 [BombeRLeWorld] INFO: STARTING STEP 40
+2021-03-29 15:45:46,592 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.00s.
+2021-03-29 15:45:46,593 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:46,593 [BombeRLeWorld] INFO: Agent <my_agent> picked up coin at (7, 15) and receives 1 point
+2021-03-29 15:45:46,689 [BombeRLeWorld] INFO: STARTING STEP 41
+2021-03-29 15:45:46,697 [BombeRLeWorld] INFO: Agent <my_agent> chose action RIGHT in 0.01s.
+2021-03-29 15:45:46,697 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:46,792 [BombeRLeWorld] INFO: STARTING STEP 42
+2021-03-29 15:45:46,798 [BombeRLeWorld] INFO: Agent <my_agent> chose action RIGHT in 0.00s.
+2021-03-29 15:45:46,798 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:46,899 [BombeRLeWorld] INFO: STARTING STEP 43
+2021-03-29 15:45:46,904 [BombeRLeWorld] INFO: Agent <my_agent> chose action RIGHT in 0.00s.
+2021-03-29 15:45:46,904 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:47,002 [BombeRLeWorld] INFO: STARTING STEP 44
+2021-03-29 15:45:47,008 [BombeRLeWorld] INFO: Agent <my_agent> chose action RIGHT in 0.00s.
+2021-03-29 15:45:47,008 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:47,106 [BombeRLeWorld] INFO: STARTING STEP 45
+2021-03-29 15:45:47,111 [BombeRLeWorld] INFO: Agent <my_agent> chose action RIGHT in 0.00s.
+2021-03-29 15:45:47,111 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:47,209 [BombeRLeWorld] INFO: STARTING STEP 46
+2021-03-29 15:45:47,214 [BombeRLeWorld] INFO: Agent <my_agent> chose action RIGHT in 0.00s.
+2021-03-29 15:45:47,214 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:47,313 [BombeRLeWorld] INFO: STARTING STEP 47
+2021-03-29 15:45:47,318 [BombeRLeWorld] INFO: Agent <my_agent> chose action RIGHT in 0.00s.
+2021-03-29 15:45:47,318 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:47,419 [BombeRLeWorld] INFO: STARTING STEP 48
+2021-03-29 15:45:47,424 [BombeRLeWorld] INFO: Agent <my_agent> chose action RIGHT in 0.00s.
+2021-03-29 15:45:47,424 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:47,520 [BombeRLeWorld] INFO: STARTING STEP 49
+2021-03-29 15:45:47,525 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.00s.
+2021-03-29 15:45:47,525 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:47,526 [BombeRLeWorld] INFO: Agent <my_agent> picked up coin at (15, 14) and receives 1 point
+2021-03-29 15:45:47,625 [BombeRLeWorld] INFO: STARTING STEP 50
+2021-03-29 15:45:47,634 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.01s.
+2021-03-29 15:45:47,634 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:47,726 [BombeRLeWorld] INFO: STARTING STEP 51
+2021-03-29 15:45:47,733 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.01s.
+2021-03-29 15:45:47,733 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:47,828 [BombeRLeWorld] INFO: STARTING STEP 52
+2021-03-29 15:45:47,838 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.01s.
+2021-03-29 15:45:47,838 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:47,938 [BombeRLeWorld] INFO: STARTING STEP 53
+2021-03-29 15:45:47,952 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.01s.
+2021-03-29 15:45:47,952 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:48,039 [BombeRLeWorld] INFO: STARTING STEP 54
+2021-03-29 15:45:48,050 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.01s.
+2021-03-29 15:45:48,050 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:48,140 [BombeRLeWorld] INFO: STARTING STEP 55
+2021-03-29 15:45:48,150 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.01s.
+2021-03-29 15:45:48,150 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:48,246 [BombeRLeWorld] INFO: STARTING STEP 56
+2021-03-29 15:45:48,255 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.01s.
+2021-03-29 15:45:48,255 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:48,350 [BombeRLeWorld] INFO: STARTING STEP 57
+2021-03-29 15:45:48,362 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.01s.
+2021-03-29 15:45:48,362 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:48,452 [BombeRLeWorld] INFO: STARTING STEP 58
+2021-03-29 15:45:48,469 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.01s.
+2021-03-29 15:45:48,469 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:48,556 [BombeRLeWorld] INFO: STARTING STEP 59
+2021-03-29 15:45:48,565 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.01s.
+2021-03-29 15:45:48,565 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:48,661 [BombeRLeWorld] INFO: STARTING STEP 60
+2021-03-29 15:45:48,669 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.01s.
+2021-03-29 15:45:48,669 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:48,764 [BombeRLeWorld] INFO: STARTING STEP 61
+2021-03-29 15:45:48,772 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.01s.
+2021-03-29 15:45:48,772 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:48,869 [BombeRLeWorld] INFO: STARTING STEP 62
+2021-03-29 15:45:48,879 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.01s.
+2021-03-29 15:45:48,879 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:48,970 [BombeRLeWorld] INFO: STARTING STEP 63
+2021-03-29 15:45:48,978 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.01s.
+2021-03-29 15:45:48,978 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:49,072 [BombeRLeWorld] INFO: STARTING STEP 64
+2021-03-29 15:45:49,080 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.01s.
+2021-03-29 15:45:49,080 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:49,172 [BombeRLeWorld] INFO: STARTING STEP 65
+2021-03-29 15:45:49,179 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.01s.
+2021-03-29 15:45:49,179 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:49,275 [BombeRLeWorld] INFO: STARTING STEP 66
+2021-03-29 15:45:49,287 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.01s.
+2021-03-29 15:45:49,287 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:49,380 [BombeRLeWorld] INFO: STARTING STEP 67
+2021-03-29 15:45:49,384 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.00s.
+2021-03-29 15:45:49,384 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:49,484 [BombeRLeWorld] INFO: STARTING STEP 68
+2021-03-29 15:45:49,490 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.01s.
+2021-03-29 15:45:49,491 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:49,588 [BombeRLeWorld] INFO: STARTING STEP 69
+2021-03-29 15:45:49,593 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.00s.
+2021-03-29 15:45:49,593 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:49,691 [BombeRLeWorld] INFO: STARTING STEP 70
+2021-03-29 15:45:49,695 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.00s.
+2021-03-29 15:45:49,695 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:49,695 [BombeRLeWorld] INFO: Agent <my_agent> picked up coin at (7, 1) and receives 1 point
+2021-03-29 15:45:49,696 [BombeRLeWorld] INFO: One agent left alive with nothing to do, wrap up round
+2021-03-29 15:45:49,696 [BombeRLeWorld] INFO: WRAPPING UP ROUND #7
+2021-03-29 15:45:51,512 [BombeRLeWorld] INFO: STARTING ROUND #8
+2021-03-29 15:45:51,572 [BombeRLeWorld] INFO: STARTING STEP 1
+2021-03-29 15:45:51,578 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.00s.
+2021-03-29 15:45:51,578 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:51,677 [BombeRLeWorld] INFO: STARTING STEP 2
+2021-03-29 15:45:51,680 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.00s.
+2021-03-29 15:45:51,680 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:51,781 [BombeRLeWorld] INFO: STARTING STEP 3
+2021-03-29 15:45:51,786 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.00s.
+2021-03-29 15:45:51,787 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:51,891 [BombeRLeWorld] INFO: STARTING STEP 4
+2021-03-29 15:45:51,896 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.00s.
+2021-03-29 15:45:51,896 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:51,896 [BombeRLeWorld] INFO: Agent <my_agent> picked up coin at (1, 11) and receives 1 point
+2021-03-29 15:45:51,995 [BombeRLeWorld] INFO: STARTING STEP 5
+2021-03-29 15:45:52,000 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.00s.
+2021-03-29 15:45:52,000 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:52,100 [BombeRLeWorld] INFO: STARTING STEP 6
+2021-03-29 15:45:52,107 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.01s.
+2021-03-29 15:45:52,107 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:52,202 [BombeRLeWorld] INFO: STARTING STEP 7
+2021-03-29 15:45:52,208 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.01s.
+2021-03-29 15:45:52,208 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:52,304 [BombeRLeWorld] INFO: STARTING STEP 8
+2021-03-29 15:45:52,310 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.00s.
+2021-03-29 15:45:52,310 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:52,413 [BombeRLeWorld] INFO: STARTING STEP 9
+2021-03-29 15:45:52,417 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.00s.
+2021-03-29 15:45:52,417 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:52,417 [BombeRLeWorld] INFO: Agent <my_agent> picked up coin at (1, 6) and receives 1 point
+2021-03-29 15:45:52,518 [BombeRLeWorld] INFO: STARTING STEP 10
+2021-03-29 15:45:52,525 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.01s.
+2021-03-29 15:45:52,525 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:52,619 [BombeRLeWorld] INFO: STARTING STEP 11
+2021-03-29 15:45:52,625 [BombeRLeWorld] INFO: Agent <my_agent> chose action RIGHT in 0.00s.
+2021-03-29 15:45:52,625 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:52,724 [BombeRLeWorld] INFO: STARTING STEP 12
+2021-03-29 15:45:52,729 [BombeRLeWorld] INFO: Agent <my_agent> chose action RIGHT in 0.00s.
+2021-03-29 15:45:52,730 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:52,829 [BombeRLeWorld] INFO: STARTING STEP 13
+2021-03-29 15:45:52,834 [BombeRLeWorld] INFO: Agent <my_agent> chose action RIGHT in 0.00s.
+2021-03-29 15:45:52,834 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:52,934 [BombeRLeWorld] INFO: STARTING STEP 14
+2021-03-29 15:45:52,938 [BombeRLeWorld] INFO: Agent <my_agent> chose action RIGHT in 0.00s.
+2021-03-29 15:45:52,938 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:52,939 [BombeRLeWorld] INFO: Agent <my_agent> picked up coin at (5, 5) and receives 1 point
+2021-03-29 15:45:53,037 [BombeRLeWorld] INFO: STARTING STEP 15
+2021-03-29 15:45:53,044 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.01s.
+2021-03-29 15:45:53,044 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:53,140 [BombeRLeWorld] INFO: STARTING STEP 16
+2021-03-29 15:45:53,145 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.00s.
+2021-03-29 15:45:53,146 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:53,244 [BombeRLeWorld] INFO: STARTING STEP 17
+2021-03-29 15:45:53,248 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.00s.
+2021-03-29 15:45:53,248 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:53,348 [BombeRLeWorld] INFO: STARTING STEP 18
+2021-03-29 15:45:53,355 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.01s.
+2021-03-29 15:45:53,355 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:53,455 [BombeRLeWorld] INFO: STARTING STEP 19
+2021-03-29 15:45:53,460 [BombeRLeWorld] INFO: Agent <my_agent> chose action RIGHT in 0.00s.
+2021-03-29 15:45:53,460 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:53,460 [BombeRLeWorld] INFO: Agent <my_agent> picked up coin at (6, 9) and receives 1 point
+2021-03-29 15:45:53,557 [BombeRLeWorld] INFO: STARTING STEP 20
+2021-03-29 15:45:53,566 [BombeRLeWorld] INFO: Agent <my_agent> chose action RIGHT in 0.01s.
+2021-03-29 15:45:53,566 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:53,662 [BombeRLeWorld] INFO: STARTING STEP 21
+2021-03-29 15:45:53,670 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.01s.
+2021-03-29 15:45:53,671 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:53,766 [BombeRLeWorld] INFO: STARTING STEP 22
+2021-03-29 15:45:53,774 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.01s.
+2021-03-29 15:45:53,774 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:53,871 [BombeRLeWorld] INFO: STARTING STEP 23
+2021-03-29 15:45:53,879 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.01s.
+2021-03-29 15:45:53,879 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:53,975 [BombeRLeWorld] INFO: STARTING STEP 24
+2021-03-29 15:45:53,981 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.00s.
+2021-03-29 15:45:53,981 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:54,080 [BombeRLeWorld] INFO: STARTING STEP 25
+2021-03-29 15:45:54,085 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.00s.
+2021-03-29 15:45:54,085 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:54,184 [BombeRLeWorld] INFO: STARTING STEP 26
+2021-03-29 15:45:54,190 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.00s.
+2021-03-29 15:45:54,190 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:54,289 [BombeRLeWorld] INFO: STARTING STEP 27
+2021-03-29 15:45:54,293 [BombeRLeWorld] INFO: Agent <my_agent> chose action RIGHT in 0.00s.
+2021-03-29 15:45:54,293 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:54,293 [BombeRLeWorld] INFO: Agent <my_agent> picked up coin at (8, 15) and receives 1 point
+2021-03-29 15:45:54,393 [BombeRLeWorld] INFO: STARTING STEP 28
+2021-03-29 15:45:54,400 [BombeRLeWorld] INFO: Agent <my_agent> chose action RIGHT in 0.01s.
+2021-03-29 15:45:54,400 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:54,498 [BombeRLeWorld] INFO: STARTING STEP 29
+2021-03-29 15:45:54,504 [BombeRLeWorld] INFO: Agent <my_agent> chose action RIGHT in 0.01s.
+2021-03-29 15:45:54,504 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:54,602 [BombeRLeWorld] INFO: STARTING STEP 30
+2021-03-29 15:45:54,610 [BombeRLeWorld] INFO: Agent <my_agent> chose action RIGHT in 0.01s.
+2021-03-29 15:45:54,610 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:54,705 [BombeRLeWorld] INFO: STARTING STEP 31
+2021-03-29 15:45:54,716 [BombeRLeWorld] INFO: Agent <my_agent> chose action RIGHT in 0.01s.
+2021-03-29 15:45:54,716 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:54,810 [BombeRLeWorld] INFO: STARTING STEP 32
+2021-03-29 15:45:54,813 [BombeRLeWorld] INFO: Agent <my_agent> chose action RIGHT in 0.00s.
+2021-03-29 15:45:54,813 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:54,915 [BombeRLeWorld] INFO: STARTING STEP 33
+2021-03-29 15:45:54,920 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.00s.
+2021-03-29 15:45:54,920 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:55,019 [BombeRLeWorld] INFO: STARTING STEP 34
+2021-03-29 15:45:55,025 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.01s.
+2021-03-29 15:45:55,026 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:55,123 [BombeRLeWorld] INFO: STARTING STEP 35
+2021-03-29 15:45:55,129 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.00s.
+2021-03-29 15:45:55,129 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:55,230 [BombeRLeWorld] INFO: STARTING STEP 36
+2021-03-29 15:45:55,234 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.00s.
+2021-03-29 15:45:55,234 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:55,234 [BombeRLeWorld] INFO: Agent <my_agent> picked up coin at (13, 11) and receives 1 point
+2021-03-29 15:45:55,336 [BombeRLeWorld] INFO: STARTING STEP 37
+2021-03-29 15:45:55,340 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.00s.
+2021-03-29 15:45:55,340 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:55,340 [BombeRLeWorld] INFO: Agent <my_agent> picked up coin at (13, 10) and receives 1 point
+2021-03-29 15:45:55,437 [BombeRLeWorld] INFO: STARTING STEP 38
+2021-03-29 15:45:55,446 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.01s.
+2021-03-29 15:45:55,446 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:55,541 [BombeRLeWorld] INFO: STARTING STEP 39
+2021-03-29 15:45:55,548 [BombeRLeWorld] INFO: Agent <my_agent> chose action RIGHT in 0.01s.
+2021-03-29 15:45:55,548 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:55,644 [BombeRLeWorld] INFO: STARTING STEP 40
+2021-03-29 15:45:55,650 [BombeRLeWorld] INFO: Agent <my_agent> chose action RIGHT in 0.01s.
+2021-03-29 15:45:55,651 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:55,753 [BombeRLeWorld] INFO: STARTING STEP 41
+2021-03-29 15:45:55,760 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.01s.
+2021-03-29 15:45:55,760 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:55,857 [BombeRLeWorld] INFO: STARTING STEP 42
+2021-03-29 15:45:55,862 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.00s.
+2021-03-29 15:45:55,862 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:55,961 [BombeRLeWorld] INFO: STARTING STEP 43
+2021-03-29 15:45:55,965 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.00s.
+2021-03-29 15:45:55,965 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:56,065 [BombeRLeWorld] INFO: STARTING STEP 44
+2021-03-29 15:45:56,070 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.00s.
+2021-03-29 15:45:56,071 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:56,170 [BombeRLeWorld] INFO: STARTING STEP 45
+2021-03-29 15:45:56,176 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.00s.
+2021-03-29 15:45:56,176 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:56,277 [BombeRLeWorld] INFO: STARTING STEP 46
+2021-03-29 15:45:56,281 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.00s.
+2021-03-29 15:45:56,281 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:56,281 [BombeRLeWorld] INFO: Agent <my_agent> picked up coin at (15, 3) and receives 1 point
+2021-03-29 15:45:56,380 [BombeRLeWorld] INFO: STARTING STEP 47
+2021-03-29 15:45:56,387 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.01s.
+2021-03-29 15:45:56,387 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:56,480 [BombeRLeWorld] INFO: STARTING STEP 48
+2021-03-29 15:45:56,486 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.00s.
+2021-03-29 15:45:56,486 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:56,585 [BombeRLeWorld] INFO: STARTING STEP 49
+2021-03-29 15:45:56,593 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.01s.
+2021-03-29 15:45:56,593 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:56,687 [BombeRLeWorld] INFO: STARTING STEP 50
+2021-03-29 15:45:56,694 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.01s.
+2021-03-29 15:45:56,694 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:56,791 [BombeRLeWorld] INFO: STARTING STEP 51
+2021-03-29 15:45:56,800 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.01s.
+2021-03-29 15:45:56,800 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:56,894 [BombeRLeWorld] INFO: STARTING STEP 52
+2021-03-29 15:45:56,898 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.00s.
+2021-03-29 15:45:56,898 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:56,995 [BombeRLeWorld] INFO: STARTING STEP 53
+2021-03-29 15:45:56,999 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.00s.
+2021-03-29 15:45:56,999 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:57,098 [BombeRLeWorld] INFO: STARTING STEP 54
+2021-03-29 15:45:57,102 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.00s.
+2021-03-29 15:45:57,102 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:57,203 [BombeRLeWorld] INFO: STARTING STEP 55
+2021-03-29 15:45:57,208 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.00s.
+2021-03-29 15:45:57,208 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:57,208 [BombeRLeWorld] INFO: Agent <my_agent> picked up coin at (7, 2) and receives 1 point
+2021-03-29 15:45:57,208 [BombeRLeWorld] INFO: One agent left alive with nothing to do, wrap up round
+2021-03-29 15:45:57,209 [BombeRLeWorld] INFO: WRAPPING UP ROUND #8
+2021-03-29 15:45:57,981 [BombeRLeWorld] INFO: STARTING ROUND #9
+2021-03-29 15:45:58,036 [BombeRLeWorld] INFO: STARTING STEP 1
+2021-03-29 15:45:58,043 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.01s.
+2021-03-29 15:45:58,044 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:58,139 [BombeRLeWorld] INFO: STARTING STEP 2
+2021-03-29 15:45:58,145 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.01s.
+2021-03-29 15:45:58,146 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:58,244 [BombeRLeWorld] INFO: STARTING STEP 3
+2021-03-29 15:45:58,249 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.00s.
+2021-03-29 15:45:58,249 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:58,348 [BombeRLeWorld] INFO: STARTING STEP 4
+2021-03-29 15:45:58,355 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.01s.
+2021-03-29 15:45:58,355 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:58,452 [BombeRLeWorld] INFO: STARTING STEP 5
+2021-03-29 15:45:58,458 [BombeRLeWorld] INFO: Agent <my_agent> chose action RIGHT in 0.01s.
+2021-03-29 15:45:58,458 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:58,556 [BombeRLeWorld] INFO: STARTING STEP 6
+2021-03-29 15:45:58,561 [BombeRLeWorld] INFO: Agent <my_agent> chose action RIGHT in 0.00s.
+2021-03-29 15:45:58,561 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:58,663 [BombeRLeWorld] INFO: STARTING STEP 7
+2021-03-29 15:45:58,667 [BombeRLeWorld] INFO: Agent <my_agent> chose action RIGHT in 0.00s.
+2021-03-29 15:45:58,667 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:58,667 [BombeRLeWorld] INFO: Agent <my_agent> picked up coin at (4, 5) and receives 1 point
+2021-03-29 15:45:58,767 [BombeRLeWorld] INFO: STARTING STEP 8
+2021-03-29 15:45:58,777 [BombeRLeWorld] INFO: Agent <my_agent> chose action RIGHT in 0.01s.
+2021-03-29 15:45:58,777 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:58,872 [BombeRLeWorld] INFO: STARTING STEP 9
+2021-03-29 15:45:58,879 [BombeRLeWorld] INFO: Agent <my_agent> chose action RIGHT in 0.01s.
+2021-03-29 15:45:58,879 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:58,972 [BombeRLeWorld] INFO: STARTING STEP 10
+2021-03-29 15:45:58,978 [BombeRLeWorld] INFO: Agent <my_agent> chose action RIGHT in 0.01s.
+2021-03-29 15:45:58,978 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:59,076 [BombeRLeWorld] INFO: STARTING STEP 11
+2021-03-29 15:45:59,081 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.00s.
+2021-03-29 15:45:59,082 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:59,182 [BombeRLeWorld] INFO: STARTING STEP 12
+2021-03-29 15:45:59,185 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.00s.
+2021-03-29 15:45:59,185 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:59,285 [BombeRLeWorld] INFO: STARTING STEP 13
+2021-03-29 15:45:59,290 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.00s.
+2021-03-29 15:45:59,290 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:59,290 [BombeRLeWorld] INFO: Agent <my_agent> picked up coin at (7, 2) and receives 1 point
+2021-03-29 15:45:59,389 [BombeRLeWorld] INFO: STARTING STEP 14
+2021-03-29 15:45:59,397 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.01s.
+2021-03-29 15:45:59,397 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:59,493 [BombeRLeWorld] INFO: STARTING STEP 15
+2021-03-29 15:45:59,499 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.01s.
+2021-03-29 15:45:59,499 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:59,595 [BombeRLeWorld] INFO: STARTING STEP 16
+2021-03-29 15:45:59,601 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.01s.
+2021-03-29 15:45:59,601 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:59,701 [BombeRLeWorld] INFO: STARTING STEP 17
+2021-03-29 15:45:59,707 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.01s.
+2021-03-29 15:45:59,707 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:59,805 [BombeRLeWorld] INFO: STARTING STEP 18
+2021-03-29 15:45:59,808 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.00s.
+2021-03-29 15:45:59,809 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:45:59,908 [BombeRLeWorld] INFO: STARTING STEP 19
+2021-03-29 15:45:59,913 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.00s.
+2021-03-29 15:45:59,913 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:46:00,012 [BombeRLeWorld] INFO: STARTING STEP 20
+2021-03-29 15:46:00,016 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.00s.
+2021-03-29 15:46:00,017 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:46:00,117 [BombeRLeWorld] INFO: STARTING STEP 21
+2021-03-29 15:46:00,123 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.00s.
+2021-03-29 15:46:00,123 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:46:00,123 [BombeRLeWorld] INFO: Agent <my_agent> picked up coin at (7, 10) and receives 1 point
+2021-03-29 15:46:00,221 [BombeRLeWorld] INFO: STARTING STEP 22
+2021-03-29 15:46:00,226 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.00s.
+2021-03-29 15:46:00,226 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:46:00,226 [BombeRLeWorld] INFO: Agent <my_agent> picked up coin at (7, 11) and receives 1 point
+2021-03-29 15:46:00,326 [BombeRLeWorld] INFO: STARTING STEP 23
+2021-03-29 15:46:00,331 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.00s.
+2021-03-29 15:46:00,331 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:46:00,436 [BombeRLeWorld] INFO: STARTING STEP 24
+2021-03-29 15:46:00,444 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.01s.
+2021-03-29 15:46:00,444 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:46:00,538 [BombeRLeWorld] INFO: STARTING STEP 25
+2021-03-29 15:46:00,544 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.00s.
+2021-03-29 15:46:00,544 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:46:00,642 [BombeRLeWorld] INFO: STARTING STEP 26
+2021-03-29 15:46:00,647 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.00s.
+2021-03-29 15:46:00,647 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:46:00,746 [BombeRLeWorld] INFO: STARTING STEP 27
+2021-03-29 15:46:00,750 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.00s.
+2021-03-29 15:46:00,750 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:46:00,750 [BombeRLeWorld] INFO: Agent <my_agent> picked up coin at (3, 10) and receives 1 point
+2021-03-29 15:46:00,851 [BombeRLeWorld] INFO: STARTING STEP 28
+2021-03-29 15:46:00,859 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.01s.
+2021-03-29 15:46:00,859 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:46:00,960 [BombeRLeWorld] INFO: STARTING STEP 29
+2021-03-29 15:46:00,964 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.00s.
+2021-03-29 15:46:00,964 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:46:01,064 [BombeRLeWorld] INFO: STARTING STEP 30
+2021-03-29 15:46:01,070 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.00s.
+2021-03-29 15:46:01,070 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:46:01,169 [BombeRLeWorld] INFO: STARTING STEP 31
+2021-03-29 15:46:01,175 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.01s.
+2021-03-29 15:46:01,176 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:46:01,271 [BombeRLeWorld] INFO: STARTING STEP 32
+2021-03-29 15:46:01,275 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.00s.
+2021-03-29 15:46:01,275 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:46:01,276 [BombeRLeWorld] INFO: Agent <my_agent> picked up coin at (3, 15) and receives 1 point
+2021-03-29 15:46:01,372 [BombeRLeWorld] INFO: STARTING STEP 33
+2021-03-29 15:46:01,382 [BombeRLeWorld] INFO: Agent <my_agent> chose action RIGHT in 0.01s.
+2021-03-29 15:46:01,382 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:46:01,479 [BombeRLeWorld] INFO: STARTING STEP 34
+2021-03-29 15:46:01,485 [BombeRLeWorld] INFO: Agent <my_agent> chose action RIGHT in 0.01s.
+2021-03-29 15:46:01,485 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:46:01,582 [BombeRLeWorld] INFO: STARTING STEP 35
+2021-03-29 15:46:01,593 [BombeRLeWorld] INFO: Agent <my_agent> chose action RIGHT in 0.01s.
+2021-03-29 15:46:01,593 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:46:01,687 [BombeRLeWorld] INFO: STARTING STEP 36
+2021-03-29 15:46:01,701 [BombeRLeWorld] INFO: Agent <my_agent> chose action RIGHT in 0.01s.
+2021-03-29 15:46:01,701 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:46:01,790 [BombeRLeWorld] INFO: STARTING STEP 37
+2021-03-29 15:46:01,798 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.01s.
+2021-03-29 15:46:01,798 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:46:01,891 [BombeRLeWorld] INFO: STARTING STEP 38
+2021-03-29 15:46:01,899 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.01s.
+2021-03-29 15:46:01,899 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:46:01,997 [BombeRLeWorld] INFO: STARTING STEP 39
+2021-03-29 15:46:02,005 [BombeRLeWorld] INFO: Agent <my_agent> chose action RIGHT in 0.01s.
+2021-03-29 15:46:02,005 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:46:02,102 [BombeRLeWorld] INFO: STARTING STEP 40
+2021-03-29 15:46:02,112 [BombeRLeWorld] INFO: Agent <my_agent> chose action RIGHT in 0.01s.
+2021-03-29 15:46:02,112 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:46:02,207 [BombeRLeWorld] INFO: STARTING STEP 41
+2021-03-29 15:46:02,214 [BombeRLeWorld] INFO: Agent <my_agent> chose action RIGHT in 0.01s.
+2021-03-29 15:46:02,214 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:46:02,311 [BombeRLeWorld] INFO: STARTING STEP 42
+2021-03-29 15:46:02,317 [BombeRLeWorld] INFO: Agent <my_agent> chose action RIGHT in 0.01s.
+2021-03-29 15:46:02,317 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:46:02,416 [BombeRLeWorld] INFO: STARTING STEP 43
+2021-03-29 15:46:02,423 [BombeRLeWorld] INFO: Agent <my_agent> chose action RIGHT in 0.01s.
+2021-03-29 15:46:02,423 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:46:02,522 [BombeRLeWorld] INFO: STARTING STEP 44
+2021-03-29 15:46:02,527 [BombeRLeWorld] INFO: Agent <my_agent> chose action RIGHT in 0.00s.
+2021-03-29 15:46:02,528 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:46:02,622 [BombeRLeWorld] INFO: STARTING STEP 45
+2021-03-29 15:46:02,629 [BombeRLeWorld] INFO: Agent <my_agent> chose action RIGHT in 0.01s.
+2021-03-29 15:46:02,629 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:46:02,723 [BombeRLeWorld] INFO: STARTING STEP 46
+2021-03-29 15:46:02,728 [BombeRLeWorld] INFO: Agent <my_agent> chose action RIGHT in 0.00s.
+2021-03-29 15:46:02,728 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:46:02,823 [BombeRLeWorld] INFO: STARTING STEP 47
+2021-03-29 15:46:02,827 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.00s.
+2021-03-29 15:46:02,828 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:46:02,828 [BombeRLeWorld] INFO: Agent <my_agent> picked up coin at (15, 12) and receives 1 point
+2021-03-29 15:46:02,926 [BombeRLeWorld] INFO: STARTING STEP 48
+2021-03-29 15:46:02,931 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.00s.
+2021-03-29 15:46:02,931 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:46:03,031 [BombeRLeWorld] INFO: STARTING STEP 49
+2021-03-29 15:46:03,044 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.01s.
+2021-03-29 15:46:03,045 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:46:03,136 [BombeRLeWorld] INFO: STARTING STEP 50
+2021-03-29 15:46:03,143 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.01s.
+2021-03-29 15:46:03,143 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:46:03,240 [BombeRLeWorld] INFO: STARTING STEP 51
+2021-03-29 15:46:03,245 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.00s.
+2021-03-29 15:46:03,245 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:46:03,343 [BombeRLeWorld] INFO: STARTING STEP 52
+2021-03-29 15:46:03,348 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.00s.
+2021-03-29 15:46:03,348 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:46:03,448 [BombeRLeWorld] INFO: STARTING STEP 53
+2021-03-29 15:46:03,454 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.00s.
+2021-03-29 15:46:03,454 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:46:03,552 [BombeRLeWorld] INFO: STARTING STEP 54
+2021-03-29 15:46:03,558 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.00s.
+2021-03-29 15:46:03,558 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:46:03,656 [BombeRLeWorld] INFO: STARTING STEP 55
+2021-03-29 15:46:03,661 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.00s.
+2021-03-29 15:46:03,661 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:46:03,661 [BombeRLeWorld] INFO: Agent <my_agent> picked up coin at (12, 7) and receives 1 point
+2021-03-29 15:46:03,759 [BombeRLeWorld] INFO: STARTING STEP 56
+2021-03-29 15:46:03,763 [BombeRLeWorld] INFO: Agent <my_agent> chose action RIGHT in 0.00s.
+2021-03-29 15:46:03,764 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:46:03,861 [BombeRLeWorld] INFO: STARTING STEP 57
+2021-03-29 15:46:03,865 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.00s.
+2021-03-29 15:46:03,865 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:46:03,962 [BombeRLeWorld] INFO: STARTING STEP 58
+2021-03-29 15:46:03,965 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.00s.
+2021-03-29 15:46:03,965 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:46:03,966 [BombeRLeWorld] INFO: Agent <my_agent> picked up coin at (13, 5) and receives 1 point
+2021-03-29 15:46:03,966 [BombeRLeWorld] INFO: One agent left alive with nothing to do, wrap up round
+2021-03-29 15:46:03,966 [BombeRLeWorld] INFO: WRAPPING UP ROUND #9
+2021-03-29 15:46:04,897 [BombeRLeWorld] INFO: STARTING ROUND #10
+2021-03-29 15:46:04,998 [BombeRLeWorld] INFO: STARTING STEP 1
+2021-03-29 15:46:05,003 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.00s.
+2021-03-29 15:46:05,003 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:46:05,102 [BombeRLeWorld] INFO: STARTING STEP 2
+2021-03-29 15:46:05,108 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.00s.
+2021-03-29 15:46:05,108 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:46:05,205 [BombeRLeWorld] INFO: STARTING STEP 3
+2021-03-29 15:46:05,210 [BombeRLeWorld] INFO: Agent <my_agent> chose action RIGHT in 0.00s.
+2021-03-29 15:46:05,210 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:46:05,210 [BombeRLeWorld] INFO: Agent <my_agent> picked up coin at (2, 13) and receives 1 point
+2021-03-29 15:46:05,309 [BombeRLeWorld] INFO: STARTING STEP 4
+2021-03-29 15:46:05,314 [BombeRLeWorld] INFO: Agent <my_agent> chose action RIGHT in 0.01s.
+2021-03-29 15:46:05,314 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:46:05,411 [BombeRLeWorld] INFO: STARTING STEP 5
+2021-03-29 15:46:05,417 [BombeRLeWorld] INFO: Agent <my_agent> chose action RIGHT in 0.01s.
+2021-03-29 15:46:05,417 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:46:05,518 [BombeRLeWorld] INFO: STARTING STEP 6
+2021-03-29 15:46:05,523 [BombeRLeWorld] INFO: Agent <my_agent> chose action RIGHT in 0.00s.
+2021-03-29 15:46:05,523 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:46:05,620 [BombeRLeWorld] INFO: STARTING STEP 7
+2021-03-29 15:46:05,629 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.01s.
+2021-03-29 15:46:05,629 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:46:05,724 [BombeRLeWorld] INFO: STARTING STEP 8
+2021-03-29 15:46:05,731 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.00s.
+2021-03-29 15:46:05,731 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:46:05,829 [BombeRLeWorld] INFO: STARTING STEP 9
+2021-03-29 15:46:05,833 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.00s.
+2021-03-29 15:46:05,833 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:46:05,933 [BombeRLeWorld] INFO: STARTING STEP 10
+2021-03-29 15:46:05,937 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.00s.
+2021-03-29 15:46:05,938 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:46:06,037 [BombeRLeWorld] INFO: STARTING STEP 11
+2021-03-29 15:46:06,043 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.01s.
+2021-03-29 15:46:06,043 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:46:06,140 [BombeRLeWorld] INFO: STARTING STEP 12
+2021-03-29 15:46:06,144 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.00s.
+2021-03-29 15:46:06,144 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:46:06,144 [BombeRLeWorld] INFO: Agent <my_agent> picked up coin at (5, 7) and receives 1 point
+2021-03-29 15:46:06,240 [BombeRLeWorld] INFO: STARTING STEP 13
+2021-03-29 15:46:06,247 [BombeRLeWorld] INFO: Agent <my_agent> chose action RIGHT in 0.01s.
+2021-03-29 15:46:06,247 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:46:06,342 [BombeRLeWorld] INFO: STARTING STEP 14
+2021-03-29 15:46:06,347 [BombeRLeWorld] INFO: Agent <my_agent> chose action RIGHT in 0.00s.
+2021-03-29 15:46:06,347 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:46:06,448 [BombeRLeWorld] INFO: STARTING STEP 15
+2021-03-29 15:46:06,452 [BombeRLeWorld] INFO: Agent <my_agent> chose action RIGHT in 0.00s.
+2021-03-29 15:46:06,452 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:46:06,552 [BombeRLeWorld] INFO: STARTING STEP 16
+2021-03-29 15:46:06,557 [BombeRLeWorld] INFO: Agent <my_agent> chose action RIGHT in 0.00s.
+2021-03-29 15:46:06,557 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:46:06,557 [BombeRLeWorld] INFO: Agent <my_agent> picked up coin at (9, 7) and receives 1 point
+2021-03-29 15:46:06,655 [BombeRLeWorld] INFO: STARTING STEP 17
+2021-03-29 15:46:06,660 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.00s.
+2021-03-29 15:46:06,661 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:46:06,759 [BombeRLeWorld] INFO: STARTING STEP 18
+2021-03-29 15:46:06,762 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.00s.
+2021-03-29 15:46:06,763 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:46:06,862 [BombeRLeWorld] INFO: STARTING STEP 19
+2021-03-29 15:46:06,867 [BombeRLeWorld] INFO: Agent <my_agent> chose action RIGHT in 0.00s.
+2021-03-29 15:46:06,867 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:46:06,867 [BombeRLeWorld] INFO: Agent <my_agent> picked up coin at (10, 5) and receives 1 point
+2021-03-29 15:46:06,967 [BombeRLeWorld] INFO: STARTING STEP 20
+2021-03-29 15:46:06,977 [BombeRLeWorld] INFO: Agent <my_agent> chose action RIGHT in 0.01s.
+2021-03-29 15:46:06,982 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:46:07,070 [BombeRLeWorld] INFO: STARTING STEP 21
+2021-03-29 15:46:07,078 [BombeRLeWorld] INFO: Agent <my_agent> chose action RIGHT in 0.01s.
+2021-03-29 15:46:07,078 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:46:07,174 [BombeRLeWorld] INFO: STARTING STEP 22
+2021-03-29 15:46:07,180 [BombeRLeWorld] INFO: Agent <my_agent> chose action RIGHT in 0.00s.
+2021-03-29 15:46:07,181 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:46:07,275 [BombeRLeWorld] INFO: STARTING STEP 23
+2021-03-29 15:46:07,285 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.00s.
+2021-03-29 15:46:07,285 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:46:07,380 [BombeRLeWorld] INFO: STARTING STEP 24
+2021-03-29 15:46:07,383 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.00s.
+2021-03-29 15:46:07,383 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:46:07,484 [BombeRLeWorld] INFO: STARTING STEP 25
+2021-03-29 15:46:07,490 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.00s.
+2021-03-29 15:46:07,491 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:46:07,588 [BombeRLeWorld] INFO: STARTING STEP 26
+2021-03-29 15:46:07,597 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.00s.
+2021-03-29 15:46:07,597 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:46:07,598 [BombeRLeWorld] INFO: Agent <my_agent> picked up coin at (13, 9) and receives 1 point
+2021-03-29 15:46:07,688 [BombeRLeWorld] INFO: STARTING STEP 27
+2021-03-29 15:46:07,694 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.00s.
+2021-03-29 15:46:07,694 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:46:07,792 [BombeRLeWorld] INFO: STARTING STEP 28
+2021-03-29 15:46:07,797 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.00s.
+2021-03-29 15:46:07,797 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:46:07,896 [BombeRLeWorld] INFO: STARTING STEP 29
+2021-03-29 15:46:07,904 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.00s.
+2021-03-29 15:46:07,904 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:46:07,904 [BombeRLeWorld] INFO: Agent <my_agent> picked up coin at (12, 11) and receives 1 point
+2021-03-29 15:46:08,000 [BombeRLeWorld] INFO: STARTING STEP 30
+2021-03-29 15:46:08,008 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.01s.
+2021-03-29 15:46:08,008 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:46:08,104 [BombeRLeWorld] INFO: STARTING STEP 31
+2021-03-29 15:46:08,113 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.01s.
+2021-03-29 15:46:08,113 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:46:08,209 [BombeRLeWorld] INFO: STARTING STEP 32
+2021-03-29 15:46:08,212 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.00s.
+2021-03-29 15:46:08,213 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:46:08,313 [BombeRLeWorld] INFO: STARTING STEP 33
+2021-03-29 15:46:08,318 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.00s.
+2021-03-29 15:46:08,318 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:46:08,418 [BombeRLeWorld] INFO: STARTING STEP 34
+2021-03-29 15:46:08,423 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.00s.
+2021-03-29 15:46:08,423 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:46:08,522 [BombeRLeWorld] INFO: STARTING STEP 35
+2021-03-29 15:46:08,528 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.00s.
+2021-03-29 15:46:08,528 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:46:08,528 [BombeRLeWorld] INFO: Agent <my_agent> picked up coin at (10, 15) and receives 1 point
+2021-03-29 15:46:08,627 [BombeRLeWorld] INFO: STARTING STEP 36
+2021-03-29 15:46:08,637 [BombeRLeWorld] INFO: Agent <my_agent> chose action RIGHT in 0.01s.
+2021-03-29 15:46:08,637 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:46:08,731 [BombeRLeWorld] INFO: STARTING STEP 37
+2021-03-29 15:46:08,747 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.01s.
+2021-03-29 15:46:08,747 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:46:08,832 [BombeRLeWorld] INFO: STARTING STEP 38
+2021-03-29 15:46:08,844 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.01s.
+2021-03-29 15:46:08,844 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:46:08,937 [BombeRLeWorld] INFO: STARTING STEP 39
+2021-03-29 15:46:08,950 [BombeRLeWorld] INFO: Agent <my_agent> chose action RIGHT in 0.01s.
+2021-03-29 15:46:08,951 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:46:09,039 [BombeRLeWorld] INFO: STARTING STEP 40
+2021-03-29 15:46:09,050 [BombeRLeWorld] INFO: Agent <my_agent> chose action RIGHT in 0.01s.
+2021-03-29 15:46:09,050 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:46:09,140 [BombeRLeWorld] INFO: STARTING STEP 41
+2021-03-29 15:46:09,149 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.01s.
+2021-03-29 15:46:09,150 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:46:09,245 [BombeRLeWorld] INFO: STARTING STEP 42
+2021-03-29 15:46:09,250 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.01s.
+2021-03-29 15:46:09,250 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:46:09,347 [BombeRLeWorld] INFO: STARTING STEP 43
+2021-03-29 15:46:09,363 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.01s.
+2021-03-29 15:46:09,363 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:46:09,451 [BombeRLeWorld] INFO: STARTING STEP 44
+2021-03-29 15:46:09,460 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.01s.
+2021-03-29 15:46:09,460 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:46:09,556 [BombeRLeWorld] INFO: STARTING STEP 45
+2021-03-29 15:46:09,565 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.01s.
+2021-03-29 15:46:09,565 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:46:09,664 [BombeRLeWorld] INFO: STARTING STEP 46
+2021-03-29 15:46:09,669 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.00s.
+2021-03-29 15:46:09,669 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:46:09,769 [BombeRLeWorld] INFO: STARTING STEP 47
+2021-03-29 15:46:09,778 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.01s.
+2021-03-29 15:46:09,778 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:46:09,872 [BombeRLeWorld] INFO: STARTING STEP 48
+2021-03-29 15:46:09,879 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.01s.
+2021-03-29 15:46:09,879 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:46:09,974 [BombeRLeWorld] INFO: STARTING STEP 49
+2021-03-29 15:46:09,978 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.00s.
+2021-03-29 15:46:09,978 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:46:10,078 [BombeRLeWorld] INFO: STARTING STEP 50
+2021-03-29 15:46:10,083 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.00s.
+2021-03-29 15:46:10,083 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:46:10,183 [BombeRLeWorld] INFO: STARTING STEP 51
+2021-03-29 15:46:10,188 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.00s.
+2021-03-29 15:46:10,188 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:46:10,287 [BombeRLeWorld] INFO: STARTING STEP 52
+2021-03-29 15:46:10,291 [BombeRLeWorld] INFO: Agent <my_agent> chose action UP in 0.00s.
+2021-03-29 15:46:10,291 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:46:10,392 [BombeRLeWorld] INFO: STARTING STEP 53
+2021-03-29 15:46:10,395 [BombeRLeWorld] INFO: Agent <my_agent> chose action RIGHT in 0.00s.
+2021-03-29 15:46:10,395 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:46:10,395 [BombeRLeWorld] INFO: Agent <my_agent> picked up coin at (14, 1) and receives 1 point
+2021-03-29 15:46:10,496 [BombeRLeWorld] INFO: STARTING STEP 54
+2021-03-29 15:46:10,504 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.01s.
+2021-03-29 15:46:10,504 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:46:10,601 [BombeRLeWorld] INFO: STARTING STEP 55
+2021-03-29 15:46:10,610 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.01s.
+2021-03-29 15:46:10,610 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:46:10,705 [BombeRLeWorld] INFO: STARTING STEP 56
+2021-03-29 15:46:10,714 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.01s.
+2021-03-29 15:46:10,714 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:46:10,810 [BombeRLeWorld] INFO: STARTING STEP 57
+2021-03-29 15:46:10,817 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.01s.
+2021-03-29 15:46:10,817 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:46:10,914 [BombeRLeWorld] INFO: STARTING STEP 58
+2021-03-29 15:46:10,921 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.01s.
+2021-03-29 15:46:10,921 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:46:11,019 [BombeRLeWorld] INFO: STARTING STEP 59
+2021-03-29 15:46:11,029 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.01s.
+2021-03-29 15:46:11,029 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:46:11,121 [BombeRLeWorld] INFO: STARTING STEP 60
+2021-03-29 15:46:11,133 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.01s.
+2021-03-29 15:46:11,133 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:46:11,223 [BombeRLeWorld] INFO: STARTING STEP 61
+2021-03-29 15:46:11,229 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.01s.
+2021-03-29 15:46:11,230 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:46:11,325 [BombeRLeWorld] INFO: STARTING STEP 62
+2021-03-29 15:46:11,331 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.00s.
+2021-03-29 15:46:11,331 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:46:11,430 [BombeRLeWorld] INFO: STARTING STEP 63
+2021-03-29 15:46:11,442 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.01s.
+2021-03-29 15:46:11,442 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:46:11,532 [BombeRLeWorld] INFO: STARTING STEP 64
+2021-03-29 15:46:11,537 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.00s.
+2021-03-29 15:46:11,538 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:46:11,635 [BombeRLeWorld] INFO: STARTING STEP 65
+2021-03-29 15:46:11,641 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.00s.
+2021-03-29 15:46:11,641 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:46:11,738 [BombeRLeWorld] INFO: STARTING STEP 66
+2021-03-29 15:46:11,746 [BombeRLeWorld] INFO: Agent <my_agent> chose action LEFT in 0.00s.
+2021-03-29 15:46:11,746 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:46:11,840 [BombeRLeWorld] INFO: STARTING STEP 67
+2021-03-29 15:46:11,845 [BombeRLeWorld] INFO: Agent <my_agent> chose action DOWN in 0.00s.
+2021-03-29 15:46:11,845 [BombeRLeWorld] INFO: Agent <my_agent> stayed within acceptable think time.
+2021-03-29 15:46:11,846 [BombeRLeWorld] INFO: Agent <my_agent> picked up coin at (3, 4) and receives 1 point
+2021-03-29 15:46:11,846 [BombeRLeWorld] INFO: One agent left alive with nothing to do, wrap up round
+2021-03-29 15:46:11,846 [BombeRLeWorld] INFO: WRAPPING UP ROUND #10
+2021-03-29 15:56:23,901 [BombeRLeWorld] INFO: SHUT DOWN
